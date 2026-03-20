@@ -514,6 +514,30 @@ def render_html(data: dict[str, Any], metadata: dict[str, Any]) -> str:
 
       renderProfessorResults(content);
     }});
+
+    copyTurmaEmailsButton.addEventListener('click', async () => {{
+      const emailCells = resultTurma.querySelectorAll('tbody tr td:nth-child(4)');
+      const emails = Array.from(emailCells)
+        .map(cell => {{
+          const link = cell.querySelector('a');
+          return (link ? link.textContent : cell.textContent || '').trim();
+        }})
+        .filter(email => email.length > 0 && email.includes('@'));
+
+      const uniqueEmails = Array.from(new Set(emails));
+
+      if (uniqueEmails.length === 0) {{
+        copyTurmaEmailsStatus.textContent = 'Nenhum e-mail disponível na tabela para copiar.';
+        return;
+      }}
+
+      try {{
+        await copyText(uniqueEmails.join(','));
+        copyTurmaEmailsStatus.textContent = `${{uniqueEmails.length}} e-mail(s) copiado(s).`;
+      }} catch (error) {{
+        copyTurmaEmailsStatus.textContent = 'Não foi possível copiar os e-mails.';
+      }}
+    }});
   </script>
 </body>
 </html>
