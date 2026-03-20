@@ -1,0 +1,4184 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-20T11:40:15",
+    "input_file": "HORÁRIO TURMAS 2026 1.PDF",
+    "total_records": 188,
+    "invalid_chunks": 0,
+    "pages_with_relation": 23,
+    "pages_without_matches": [],
+    "total_turmas": 23,
+    "total_professors": 42,
+    "email_base_file": "input/professores_emails.csv",
+    "professors_added_to_email_base": 1,
+    "professors_without_email": 3,
+    "pdf_download_file": "HORÁRIO TURMAS 2026 1.PDF"
+  },
+  "records": [
+    {
+      "discipline_code": "ESTATÍSTIC",
+      "discipline_name": "Estatística Básica",
+      "professor": "Carlos Gustavo Paiva Rodrigues",
+      "turma": "20261.ADPL.1V",
+      "diario": "459313"
+    },
+    {
+      "discipline_code": "GESTÃO AMB",
+      "discipline_name": "Gestão Ambiental",
+      "professor": "Bruna de Brito Souza",
+      "turma": "20261.ADPL.1V",
+      "diario": "459315"
+    },
+    {
+      "discipline_code": "INFORMÁTIC",
+      "discipline_name": "Informática Básica",
+      "professor": "Rosangela Maria de Melo",
+      "turma": "20261.ADPL.1V",
+      "diario": "459316"
+    },
+    {
+      "discipline_code": "INTADM",
+      "discipline_name": "Introdução à Administração",
+      "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+      "turma": "20261.ADPL.1V",
+      "diario": "459317"
+    },
+    {
+      "discipline_code": "MATEMÁTICA",
+      "discipline_name": "Matemática Financeira",
+      "professor": "Camila Mendonça Morais",
+      "turma": "20261.ADPL.1V",
+      "diario": "459318"
+    },
+    {
+      "discipline_code": "NDLE",
+      "discipline_name": "Noções de Direito e Legislação Empresarial",
+      "professor": "Eduardo Valfrido da Rocha",
+      "turma": "20261.ADPL.1V",
+      "diario": "459319"
+    },
+    {
+      "discipline_code": "NOCECON",
+      "discipline_name": "Noções de Economia",
+      "professor": "Lutemberg francisco de Andrade Santana",
+      "turma": "20261.ADPL.1V",
+      "diario": "459320"
+    },
+    {
+      "discipline_code": "POR INST",
+      "discipline_name": "Português Instrumental",
+      "professor": "Luciana de Lavôr Nunes",
+      "turma": "20261.ADPL.1V",
+      "diario": "459321"
+    },
+    {
+      "discipline_code": "ÉTICA PROF",
+      "discipline_name": "Ética Profissional",
+      "professor": "Lucas Ollyver Gonçalves Barbosa",
+      "turma": "20261.ADPL.1V",
+      "diario": "459314"
+    },
+    {
+      "discipline_code": "GMEC",
+      "discipline_name": "Gestão de Materiais, Estoque e Compras",
+      "professor": "Luiz Guimarães Ribeiro Neto",
+      "turma": "20261.ADPL.2V",
+      "diario": "459322"
+    },
+    {
+      "discipline_code": "GMPE",
+      "discipline_name": "Gestão de Micro e Pequenas Empresas",
+      "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+      "turma": "20261.ADPL.2V",
+      "diario": "459323"
+    },
+    {
+      "discipline_code": "GQPS",
+      "discipline_name": "Gestão de Qualidade, Produtos e Serviços",
+      "professor": "Alexandre Hochmann Behar",
+      "turma": "20261.ADPL.2V",
+      "diario": "459324"
+    },
+    {
+      "discipline_code": "INGINST",
+      "discipline_name": "Inglês Instrumental",
+      "professor": "Luciana de Lavôr Nunes",
+      "turma": "20261.ADPL.2V",
+      "diario": "459325"
+    },
+    {
+      "discipline_code": "NCONT",
+      "discipline_name": "Noções de Contabilidade",
+      "professor": "João Bosco de Souza",
+      "turma": "20261.ADPL.2V",
+      "diario": "459326"
+    },
+    {
+      "discipline_code": "PTCOM",
+      "discipline_name": "Produção de Textos Comerciais",
+      "professor": "Ana Carolina Almeida de Barros Albuquerque",
+      "turma": "20261.ADPL.2V",
+      "diario": "459327"
+    },
+    {
+      "discipline_code": "PSI. ORG.",
+      "discipline_name": "Psicologia Organizacional e Relações Humanas",
+      "professor": "Carlos Alberto Domingues do Nascimento",
+      "turma": "20261.ADPL.2V",
+      "diario": "459328"
+    },
+    {
+      "discipline_code": "SEG S.TRAB",
+      "discipline_name": "Segurança e Saúde no Trabalho",
+      "professor": "MARCELO ALEXANDRE VILELA DA SILVA",
+      "turma": "20261.ADPL.2V",
+      "diario": "459329"
+    },
+    {
+      "discipline_code": "T SISTEMA",
+      "discipline_name": "Tecnologia e Sistemas de Informação Gerencial",
+      "professor": "Luciano Fernandes Acioli Cabral e Silva",
+      "turma": "20261.ADPL.2V",
+      "diario": "459330"
+    },
+    {
+      "discipline_code": "CONTGCUST",
+      "discipline_name": "Contabilidade Gerencial e de Custos",
+      "professor": "João Bosco de Souza",
+      "turma": "20261.ADPL.3V",
+      "diario": "459331"
+    },
+    {
+      "discipline_code": "ECON MERCA",
+      "discipline_name": "Economia e Mercado",
+      "professor": "Lutemberg francisco de Andrade Santana",
+      "turma": "20261.ADPL.3V",
+      "diario": "459332"
+    },
+    {
+      "discipline_code": "EMPREEND",
+      "discipline_name": "Empreendedorismo",
+      "professor": "Paava de Barros de Alencar Carvalho",
+      "turma": "20261.ADPL.3V",
+      "diario": "459333"
+    },
+    {
+      "discipline_code": "G.F. ORÇAM",
+      "discipline_name": "Gestão Financeira e Orçamentária",
+      "professor": "Marcelino Jose Caetano",
+      "turma": "20261.ADPL.3V",
+      "diario": "459337"
+    },
+    {
+      "discipline_code": "MARKETING",
+      "discipline_name": "Gestão de Marketing",
+      "professor": "Rosecleide Ramos Ferreira",
+      "turma": "20261.ADPL.3V",
+      "diario": "459334"
+    },
+    {
+      "discipline_code": "G PESSOAS",
+      "discipline_name": "Gestão de Pessoas",
+      "professor": "Alexandre Hochmann Behar",
+      "turma": "20261.ADPL.3V",
+      "diario": "459335"
+    },
+    {
+      "discipline_code": "GPPROD",
+      "discipline_name": "Gestão de Processos Produtivos",
+      "professor": "Luiz Guimarães Ribeiro Neto",
+      "turma": "20261.ADPL.3V",
+      "diario": "459336"
+    },
+    {
+      "discipline_code": "LTPT",
+      "discipline_name": "Legislação Trabalhista, Previdênciária e Tributária",
+      "professor": "Eduardo Valfrido da Rocha",
+      "turma": "20261.ADPL.3V",
+      "diario": "459338"
+    },
+    {
+      "discipline_code": "N LOGÍSTIC",
+      "discipline_name": "Noções de Logística",
+      "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+      "turma": "20261.ADPL.3V",
+      "diario": "459339"
+    },
+    {
+      "discipline_code": "EMP TIC",
+      "discipline_name": "Empreendedorismo em Négocios de Tic",
+      "professor": "Rosecleide Ramos Ferreira",
+      "turma": "20261.ADSPL.1M",
+      "diario": "459203"
+    },
+    {
+      "discipline_code": "INIC INFO",
+      "discipline_name": "Iniciação à Informática",
+      "professor": "Mercio Antonio Oliveira de Andrade",
+      "turma": "20261.ADSPL.1M",
+      "diario": "459205"
+    },
+    {
+      "discipline_code": "INT PROG",
+      "discipline_name": "Introdução à Programação",
+      "professor": "Paulo Roger Gomes Cordeiro",
+      "turma": "20261.ADSPL.1M",
+      "diario": "459206"
+    },
+    {
+      "discipline_code": "L. ING APL",
+      "discipline_name": "Lingua Inglesa Aplicada",
+      "professor": "Luciana de Lavôr Nunes",
+      "turma": "20261.ADSPL.1M",
+      "diario": "459207"
+    },
+    {
+      "discipline_code": "MAT APLIC",
+      "discipline_name": "Matemática Aplicada",
+      "professor": "Camila Mendonça Morais",
+      "turma": "20261.ADSPL.1M",
+      "diario": "459208"
+    },
+    {
+      "discipline_code": "E. RES AMB",
+      "discipline_name": "Ética e Responsabilidade Socioambiental",
+      "professor": "Bruna de Brito Souza",
+      "turma": "20261.ADSPL.1M",
+      "diario": "459204"
+    },
+    {
+      "discipline_code": "ARQ COMPUT",
+      "discipline_name": "Arquitetura de Computadores",
+      "professor": "WILBERT SANTANA DOS SANTOS",
+      "turma": "20261.ADSPL.2N",
+      "diario": "459228"
+    },
+    {
+      "discipline_code": "BANC DAD I",
+      "discipline_name": "Banco de Dados I",
+      "professor": "Mário Gomes de Melo",
+      "turma": "20261.ADSPL.2N",
+      "diario": "459229"
+    },
+    {
+      "discipline_code": "ENG SOFT",
+      "discipline_name": "Engenharia de Software",
+      "professor": "Mário Gomes de Melo",
+      "turma": "20261.ADSPL.2N",
+      "diario": "459230"
+    },
+    {
+      "discipline_code": "ESTAT APLI",
+      "discipline_name": "Estatística Aplicada",
+      "professor": "Lutemberg francisco de Andrade Santana",
+      "turma": "20261.ADSPL.2N",
+      "diario": "459231"
+    },
+    {
+      "discipline_code": "L. PROG OB",
+      "discipline_name": "Linguagem de Programação Orientada a Objetos",
+      "professor": "Antônio Correia de Sá Barreto Neto",
+      "turma": "20261.ADSPL.2N",
+      "diario": "459232"
+    },
+    {
+      "discipline_code": "RED COMPT",
+      "discipline_name": "Redes de Computadores",
+      "professor": "WILBERT SANTANA DOS SANTOS",
+      "turma": "20261.ADSPL.2N",
+      "diario": "459233"
+    },
+    {
+      "discipline_code": "ALG EST DA",
+      "discipline_name": "Algoritmos e Estruturas de Dados",
+      "professor": "Bruno Falcão de Souza Cartaxo",
+      "turma": "20261.ADSPL.3M",
+      "diario": "459234"
+    },
+    {
+      "discipline_code": "AN PROJ SI",
+      "discipline_name": "Análise e Projeto de Sistemas",
+      "professor": "",
+      "turma": "20261.ADSPL.3M",
+      "diario": "459235"
+    },
+    {
+      "discipline_code": "BAN DAD II",
+      "discipline_name": "Banco de Dados II",
+      "professor": "Rodrigo da Rocha Borges de Santana",
+      "turma": "20261.ADSPL.3M",
+      "diario": "459236"
+    },
+    {
+      "discipline_code": "DES WEB I",
+      "discipline_name": "Desenvolvimento de Sistemas Web I",
+      "professor": "Mário Gomes de Melo",
+      "turma": "20261.ADSPL.3M",
+      "diario": "459237"
+    },
+    {
+      "discipline_code": "INT ARTIF",
+      "discipline_name": "Inteligência Artificial",
+      "professor": "Flávio Rosendo da Silva Oliveira",
+      "turma": "20261.ADSPL.3M",
+      "diario": "459238"
+    },
+    {
+      "discipline_code": "APREND MAQ",
+      "discipline_name": "Aprendizagem de Máquina",
+      "professor": "Antônio Correia de Sá Barreto Neto",
+      "turma": "20261.ADSPL.4M",
+      "diario": "459239"
+    },
+    {
+      "discipline_code": "DES WEB II",
+      "discipline_name": "Desenvolvimento Sistemas Web II",
+      "professor": "Rodrigo Cesar Lira da Silva",
+      "turma": "20261.ADSPL.4M",
+      "diario": "459240"
+    },
+    {
+      "discipline_code": "MET CIE AP",
+      "discipline_name": "Metodologia Científica Aplicada",
+      "professor": "Flávio Rosendo da Silva Oliveira",
+      "turma": "20261.ADSPL.4M",
+      "diario": "459241"
+    },
+    {
+      "discipline_code": "SIST DISTR",
+      "discipline_name": "Sistemas Distribuídos",
+      "professor": "",
+      "turma": "20261.ADSPL.4M",
+      "diario": "459242"
+    },
+    {
+      "discipline_code": "SIST OPERA",
+      "discipline_name": "Sistemas Operacionais",
+      "professor": "Mercio Antonio Oliveira de Andrade",
+      "turma": "20261.ADSPL.4M",
+      "diario": "459243"
+    },
+    {
+      "discipline_code": "INT TCC",
+      "discipline_name": "Introdução Ao Trabalho de Conclusão de Curso",
+      "professor": "Rodrigo Cesar Lira da Silva",
+      "turma": "20261.ADSPL.5M",
+      "diario": "459246"
+    },
+    {
+      "discipline_code": "MIN DADOS",
+      "discipline_name": "Mineração de Dados",
+      "professor": "Flávio Rosendo da Silva Oliveira",
+      "turma": "20261.ADSPL.5M",
+      "diario": "459249"
+    },
+    {
+      "discipline_code": "P. D. SIST",
+      "discipline_name": "Projeto de Desenvolvimento de Sistemas Web",
+      "professor": "Mário Gomes de Melo",
+      "turma": "20261.ADSPL.5M",
+      "diario": "459253"
+    },
+    {
+      "discipline_code": "TEST SOFT",
+      "discipline_name": "Teste de Software",
+      "professor": "",
+      "turma": "20261.ADSPL.5M",
+      "diario": "459254"
+    },
+    {
+      "discipline_code": "T. ESP I.A",
+      "discipline_name": "Tópicos Especiais em Inteligência Artificial",
+      "professor": "Rodrigo Cesar Lira da Silva",
+      "turma": "20261.ADSPL.5M",
+      "diario": "459259"
+    },
+    {
+      "discipline_code": "T. ESP EMB",
+      "discipline_name": "Tópicos Especiais em Sistemas Embarcados",
+      "professor": "Mercio Antonio Oliveira de Andrade",
+      "turma": "20261.ADSPL.5M",
+      "diario": "459261"
+    },
+    {
+      "discipline_code": "GER PROJET",
+      "discipline_name": "Gerenciamentos de Projetos",
+      "professor": "Marcelino Jose Caetano",
+      "turma": "20261.ADSPL.6M",
+      "diario": "459263"
+    },
+    {
+      "discipline_code": "PR DES SOF",
+      "discipline_name": "Processos Ágeis em Desenvolvimento de Sofware",
+      "professor": "Antônio Correia de Sá Barreto Neto",
+      "turma": "20261.ADSPL.6M",
+      "diario": "459251"
+    },
+    {
+      "discipline_code": "PRO D. MOV",
+      "discipline_name": "Programação para Dispositivos Móveis",
+      "professor": "Antônio Correia de Sá Barreto Neto",
+      "turma": "20261.ADSPL.6M",
+      "diario": "459264"
+    },
+    {
+      "discipline_code": "SEG INFORM",
+      "discipline_name": "Segurança da Informação",
+      "professor": "Paulo Roger Gomes Cordeiro",
+      "turma": "20261.ADSPL.6M",
+      "diario": "459265"
+    },
+    {
+      "discipline_code": "T. ESP ELE",
+      "discipline_name": "Tópicos Especiais em Eletrônica",
+      "professor": "Mercio Antonio Oliveira de Andrade",
+      "turma": "20261.ADSPL.6M",
+      "diario": "459257"
+    },
+    {
+      "discipline_code": "ARTE I",
+      "discipline_name": "Arte I",
+      "professor": "Marinaldo Lourenço da Silva Souza",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465307"
+    },
+    {
+      "discipline_code": "BIOLOGIA",
+      "discipline_name": "Biologia I",
+      "professor": "Bruna de Brito Souza",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465308"
+    },
+    {
+      "discipline_code": "EDUCAÇÃO F",
+      "discipline_name": "Educação Física I",
+      "professor": "",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465309"
+    },
+    {
+      "discipline_code": "FILOSOFIA",
+      "discipline_name": "Filosofia I",
+      "professor": "Lucas Ollyver Gonçalves Barbosa",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465310"
+    },
+    {
+      "discipline_code": "FÍSICA",
+      "discipline_name": "Física I",
+      "professor": "Alexandre Valença do Nascimento Silva",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465311"
+    },
+    {
+      "discipline_code": "HISTÓRIA",
+      "discipline_name": "História I",
+      "professor": "Marcos Amaral Ferrante",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465312"
+    },
+    {
+      "discipline_code": "INFBAS",
+      "discipline_name": "Informática Básica",
+      "professor": "Rosangela Maria de Melo",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465313"
+    },
+    {
+      "discipline_code": "INTRO. ADM",
+      "discipline_name": "Introdução à Administração",
+      "professor": "Alba de Oliveira Barbosa",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465314"
+    },
+    {
+      "discipline_code": "INGLÊS",
+      "discipline_name": "Língua Estrangeira - Inglês I",
+      "professor": "Elizabeth de Oliveira Camelo",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465315"
+    },
+    {
+      "discipline_code": "LÍNGUA POR",
+      "discipline_name": "Língua Portuguesa I",
+      "professor": "Jessica Sabrina de Oliveira Menezes",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465316"
+    },
+    {
+      "discipline_code": "MATEMÁTICA",
+      "discipline_name": "Matemática I",
+      "professor": "Angeline Maria Cartaxo Muniz",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465317"
+    },
+    {
+      "discipline_code": "QUÍMICA",
+      "discipline_name": "Química I",
+      "professor": "Rafael José dos Santos",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465318"
+    },
+    {
+      "discipline_code": "SEGSATRAB",
+      "discipline_name": "Segurança e Saúde no Trabalho",
+      "professor": "MARCELO ALEXANDRE VILELA DA SILVA",
+      "turma": "20261.TAD-PL.1M",
+      "diario": "465319"
+    },
+    {
+      "discipline_code": "INTRO. ADM",
+      "discipline_name": "Introdução à Administração",
+      "professor": "Alba de Oliveira Barbosa",
+      "turma": "20261.TAD-PL.1V",
+      "diario": "465431"
+    },
+    {
+      "discipline_code": "MATEMÁTICA",
+      "discipline_name": "Matemática I",
+      "professor": "",
+      "turma": "20261.TAD-PL.1V",
+      "diario": "465434"
+    },
+    {
+      "discipline_code": "BIOLOGIA",
+      "discipline_name": "Biologia III",
+      "professor": "Bruna de Brito Souza",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465320"
+    },
+    {
+      "discipline_code": "EDUCAÇÃO F",
+      "discipline_name": "Educação Física III",
+      "professor": "",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465321"
+    },
+    {
+      "discipline_code": "FÍSICA",
+      "discipline_name": "Física III",
+      "professor": "Alexandre Valença do Nascimento Silva",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465324"
+    },
+    {
+      "discipline_code": "GEOGRAFIA",
+      "discipline_name": "Geografia II",
+      "professor": "Gleide de Lima Ferreira",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465325"
+    },
+    {
+      "discipline_code": "GEST. MATE",
+      "discipline_name": "Gestão de Materiais, Estoque e Compras",
+      "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465326"
+    },
+    {
+      "discipline_code": "GEST. PESS",
+      "discipline_name": "Gestão de Pessoas",
+      "professor": "Alba de Oliveira Barbosa",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465327"
+    },
+    {
+      "discipline_code": "HISTÓRIA",
+      "discipline_name": "História III",
+      "professor": "Marcos Amaral Ferrante",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465328"
+    },
+    {
+      "discipline_code": "INFBAS",
+      "discipline_name": "Informática Básica",
+      "professor": "Rosangela Maria de Melo",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465354"
+    },
+    {
+      "discipline_code": "INGLÊS",
+      "discipline_name": "Língua Estrangeira - Inglês III",
+      "professor": "Elizabeth de Oliveira Camelo",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465329"
+    },
+    {
+      "discipline_code": "LÍNGUA POR",
+      "discipline_name": "Língua Portuguesa III",
+      "professor": "Ana Carolina Almeida de Barros Albuquerque",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465330"
+    },
+    {
+      "discipline_code": "MATEMÁTICA",
+      "discipline_name": "Matemática III",
+      "professor": "",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465331"
+    },
+    {
+      "discipline_code": "NOÇÕE DIRE",
+      "discipline_name": "Noções de Direito e Legislação Empresarial",
+      "professor": "Eduardo Valfrido da Rocha",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465332"
+    },
+    {
+      "discipline_code": "NOÇÕES LOG",
+      "discipline_name": "Noções de Logística",
+      "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465333"
+    },
+    {
+      "discipline_code": "QUÍMICA",
+      "discipline_name": "Química III",
+      "professor": "Rafael José dos Santos",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465334"
+    },
+    {
+      "discipline_code": "SEGSATRAB",
+      "discipline_name": "Segurança e Saúde no Trabalho",
+      "professor": "MARCELO ALEXANDRE VILELA DA SILVA",
+      "turma": "20261.TAD-PL.3M",
+      "diario": "465355"
+    },
+    {
+      "discipline_code": "BIOLOGIA",
+      "discipline_name": "Biologia V",
+      "professor": "Bruna de Brito Souza",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465336"
+    },
+    {
+      "discipline_code": "CONT GEREN",
+      "discipline_name": "Contabilidade Gerencial e de Custos",
+      "professor": "Carlos Gustavo Paiva Rodrigues",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465337"
+    },
+    {
+      "discipline_code": "ECON. MERC",
+      "discipline_name": "Economia e Mercado",
+      "professor": "Lutemberg francisco de Andrade Santana",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465338"
+    },
+    {
+      "discipline_code": "FÍSICA",
+      "discipline_name": "Física V",
+      "professor": "Alexandre Valença do Nascimento Silva",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465341"
+    },
+    {
+      "discipline_code": "GEOGRAFIA",
+      "discipline_name": "Geografia IV",
+      "professor": "Gleide de Lima Ferreira",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465342"
+    },
+    {
+      "discipline_code": "GEST. FIN",
+      "discipline_name": "Gestão Financeira e Orçamentária",
+      "professor": "Carlos Gustavo Paiva Rodrigues",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465345"
+    },
+    {
+      "discipline_code": "GEST QUALI",
+      "discipline_name": "Gestão da Qualidade de Produtos e Serviços",
+      "professor": "Rosecleide Ramos Ferreira",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465343"
+    },
+    {
+      "discipline_code": "HISTÓRIA",
+      "discipline_name": "História V",
+      "professor": "Marcos Amaral Ferrante",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465346"
+    },
+    {
+      "discipline_code": "INGLÊS",
+      "discipline_name": "Língua Estrangeira - Inglês IV",
+      "professor": "Elizabeth de Oliveira Camelo",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465347"
+    },
+    {
+      "discipline_code": "LÍNGUA POR",
+      "discipline_name": "Língua Portuguesa V",
+      "professor": "Jessica Sabrina de Oliveira Menezes",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465348"
+    },
+    {
+      "discipline_code": "MATEMÁTICA",
+      "discipline_name": "Matemática V",
+      "professor": "Camila Mendonça Morais",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465349"
+    },
+    {
+      "discipline_code": "NOÇÕ CONT",
+      "discipline_name": "Noções de Contabilidade",
+      "professor": "Carlos Gustavo Paiva Rodrigues",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465373"
+    },
+    {
+      "discipline_code": "NOÇÕE DIRE",
+      "discipline_name": "Noções de Direito e Legislação Empresarial",
+      "professor": "Eduardo Valfrido da Rocha",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465384"
+    },
+    {
+      "discipline_code": "NOÇÕE ECON",
+      "discipline_name": "Noções de Economia",
+      "professor": "Lutemberg francisco de Andrade Santana",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465383"
+    },
+    {
+      "discipline_code": "QUÍMICA",
+      "discipline_name": "Química V",
+      "professor": "Rafael José dos Santos",
+      "turma": "20261.TAD-PL.5M",
+      "diario": "465350"
+    },
+    {
+      "discipline_code": "INT ADM",
+      "discipline_name": "Introdução à Administração",
+      "professor": "Alba de Oliveira Barbosa",
+      "turma": "20261.TGPL.1N",
+      "diario": "459266"
+    },
+    {
+      "discipline_code": "I.CONTABIL",
+      "discipline_name": "Introdução à Contabilidade",
+      "professor": "João Bosco de Souza",
+      "turma": "20261.TGPL.1N",
+      "diario": "459267"
+    },
+    {
+      "discipline_code": "INT.ECONOM",
+      "discipline_name": "Introdução à Economia",
+      "professor": "Lutemberg francisco de Andrade Santana",
+      "turma": "20261.TGPL.1N",
+      "diario": "459268"
+    },
+    {
+      "discipline_code": "MAT BÁS",
+      "discipline_name": "Matemática Básica",
+      "professor": "Wandernos de Melo e Silva",
+      "turma": "20261.TGPL.1N",
+      "diario": "459269"
+    },
+    {
+      "discipline_code": "N.DIREITO",
+      "discipline_name": "Noções de Direito Administrativo",
+      "professor": "Eduardo Valfrido da Rocha",
+      "turma": "20261.TGPL.1N",
+      "diario": "459270"
+    },
+    {
+      "discipline_code": "SOCIOLOGIA",
+      "discipline_name": "Sociologia Aplicada à Administração",
+      "professor": "Thiago Gabriel Silva Gameiro",
+      "turma": "20261.TGPL.1N",
+      "diario": "459271"
+    },
+    {
+      "discipline_code": "ESTATISTIC",
+      "discipline_name": "Estatística Básica",
+      "professor": "Wandernos de Melo e Silva",
+      "turma": "20261.TGPL.2N",
+      "diario": "459272"
+    },
+    {
+      "discipline_code": "GESTÃO PÚB",
+      "discipline_name": "Noções de Gestão Pública",
+      "professor": "Alba de Oliveira Barbosa",
+      "turma": "20261.TGPL.2N",
+      "diario": "459274"
+    },
+    {
+      "discipline_code": "ORATÓRIA",
+      "discipline_name": "Oratória e Retórica",
+      "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+      "turma": "20261.TGPL.2N",
+      "diario": "459275"
+    },
+    {
+      "discipline_code": "T. CIENTÍF",
+      "discipline_name": "Organização do Trabalho Científico",
+      "professor": "Alexandre Hochmann Behar",
+      "turma": "20261.TGPL.2N",
+      "diario": "459276"
+    },
+    {
+      "discipline_code": "COM EMPRES",
+      "discipline_name": "Produção Textual e Comunicação Empresarial",
+      "professor": "Luciana de Lavôr Nunes",
+      "turma": "20261.TGPL.2N",
+      "diario": "459277"
+    },
+    {
+      "discipline_code": "ÉTICA",
+      "discipline_name": "Ética",
+      "professor": "Lucas Ollyver Gonçalves Barbosa",
+      "turma": "20261.TGPL.2N",
+      "diario": "459273"
+    },
+    {
+      "discipline_code": "GESTÃO AMB",
+      "discipline_name": "Gestão Ambiental e Sustenbtabilidade",
+      "professor": "Bruna de Brito Souza",
+      "turma": "20261.TGPL.3N",
+      "diario": "459278"
+    },
+    {
+      "discipline_code": "MAT FINANC",
+      "discipline_name": "Matemática Financeira",
+      "professor": "Camila Mendonça Morais",
+      "turma": "20261.TGPL.3N",
+      "diario": "459279"
+    },
+    {
+      "discipline_code": "DIREIT EMP",
+      "discipline_name": "Noções de Direito e Legislação Empresarial",
+      "professor": "Eduardo Valfrido da Rocha",
+      "turma": "20261.TGPL.3N",
+      "diario": "459280"
+    },
+    {
+      "discipline_code": "PSICOLOGIA",
+      "discipline_name": "Psicologia Organizacional",
+      "professor": "Carlos Alberto Domingues do Nascimento",
+      "turma": "20261.TGPL.3N",
+      "diario": "459281"
+    },
+    {
+      "discipline_code": "R C ORGANI",
+      "discipline_name": "Reflexões Críticas e Organizações",
+      "professor": "Alexandre Hochmann Behar",
+      "turma": "20261.TGPL.3N",
+      "diario": "459282"
+    },
+    {
+      "discipline_code": "INFORMAÇÃO",
+      "discipline_name": "Sistema de Informação Gerancial",
+      "professor": "Luciano Fernandes Acioli Cabral e Silva",
+      "turma": "20261.TGPL.3N",
+      "diario": "459283"
+    },
+    {
+      "discipline_code": "ESTÁGIO SU",
+      "discipline_name": "Estágio Curricular Supervisionado",
+      "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+      "turma": "20261.TGPL.4N",
+      "diario": "459285"
+    },
+    {
+      "discipline_code": "F.G.QUALID",
+      "discipline_name": "Fundamentos da Gestão da Qualidade",
+      "professor": "Luiz Guimarães Ribeiro Neto",
+      "turma": "20261.TGPL.4N",
+      "diario": "459286"
+    },
+    {
+      "discipline_code": "GESTÃO AMB",
+      "discipline_name": "Gestão Ambiental e Sustenbtabilidade",
+      "professor": "Bruna de Brito Souza",
+      "turma": "20261.TGPL.4N",
+      "diario": "459398"
+    },
+    {
+      "discipline_code": "CUSTOS",
+      "discipline_name": "Gestão de Custos",
+      "professor": "João Bosco de Souza",
+      "turma": "20261.TGPL.4N",
+      "diario": "459287"
+    },
+    {
+      "discipline_code": "G. LOGÍSTI",
+      "discipline_name": "Gestão de Materias e Logística",
+      "professor": "Luiz Guimarães Ribeiro Neto",
+      "turma": "20261.TGPL.4N",
+      "diario": "459288"
+    },
+    {
+      "discipline_code": "PROC DECIS",
+      "discipline_name": "Processo Decisório",
+      "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+      "turma": "20261.TGPL.4N",
+      "diario": "459291"
+    },
+    {
+      "discipline_code": "PROJ. INT1",
+      "discipline_name": "Projeto Integrador I",
+      "professor": "Paava de Barros de Alencar Carvalho",
+      "turma": "20261.TGPL.4N",
+      "diario": "459292"
+    },
+    {
+      "discipline_code": "VIAB ECONM",
+      "discipline_name": "Viabilidade Econômico- Financeira",
+      "professor": "João Bosco de Souza",
+      "turma": "20261.TGPL.4N",
+      "diario": "459293"
+    },
+    {
+      "discipline_code": "ESTRATÉGIA",
+      "discipline_name": "Estratégia Organizacional",
+      "professor": "Alexandre Hochmann Behar",
+      "turma": "20261.TGPL.5N",
+      "diario": "459296"
+    },
+    {
+      "discipline_code": "G F ORÇAM1",
+      "discipline_name": "Gestão Financeira e Orçamentária I",
+      "professor": "Luiz Guimarães Ribeiro Neto",
+      "turma": "20261.TGPL.5N",
+      "diario": "459299"
+    },
+    {
+      "discipline_code": "G.MARKTING",
+      "discipline_name": "Gestão de Marketing",
+      "professor": "Paava de Barros de Alencar Carvalho",
+      "turma": "20261.TGPL.5N",
+      "diario": "459297"
+    },
+    {
+      "discipline_code": "G. PESSOA",
+      "discipline_name": "Gestão de Pessoa",
+      "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+      "turma": "20261.TGPL.5N",
+      "diario": "459298"
+    },
+    {
+      "discipline_code": "INT.TCC",
+      "discipline_name": "Introdução Ao Trabalho de Conclusão de Curso",
+      "professor": "Alba de Oliveira Barbosa",
+      "turma": "20261.TGPL.5N",
+      "diario": "459300"
+    },
+    {
+      "discipline_code": "NOÇAO ORÇA",
+      "discipline_name": "Noções de Orçamento Público",
+      "professor": "Carlos Gustavo Paiva Rodrigues",
+      "turma": "20261.TGPL.5N",
+      "diario": "459302"
+    },
+    {
+      "discipline_code": "PROJ INT2",
+      "discipline_name": "Projeto Integrador II",
+      "professor": "Luciano Fernandes Acioli Cabral e Silva",
+      "turma": "20261.TGPL.5N",
+      "diario": "459303"
+    },
+    {
+      "discipline_code": "DIAG EMPRE",
+      "discipline_name": "Diagnóstico e Consultoria Empresarial",
+      "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+      "turma": "20261.TGPL.6N",
+      "diario": "459305"
+    },
+    {
+      "discipline_code": "EMPREENDED",
+      "discipline_name": "Empreendedorismo e Gestão de Micro e Pequenas",
+      "professor": "Rosecleide Ramos Ferreira",
+      "turma": "20261.TGPL.6N",
+      "diario": "459307"
+    },
+    {
+      "discipline_code": "G.ORÇAM 2",
+      "discipline_name": "Gestão Financeira e Orçamentária II",
+      "professor": "Marcelino Jose Caetano",
+      "turma": "20261.TGPL.6N",
+      "diario": "459311"
+    },
+    {
+      "discipline_code": "PROD PROJ",
+      "discipline_name": "Gestão da Produção e Projetos",
+      "professor": "Luciano Fernandes Acioli Cabral e Silva",
+      "turma": "20261.TGPL.6N",
+      "diario": "459308"
+    },
+    {
+      "discipline_code": "GEST SAUDE",
+      "discipline_name": "Gestão de Sistemas de Saúde",
+      "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+      "turma": "20261.TGPL.6N",
+      "diario": "459310"
+    },
+    {
+      "discipline_code": "ARQT. COMP",
+      "discipline_name": "Arquitetura de Computadores",
+      "professor": "Ivanildo José de Melo Filho",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463724"
+    },
+    {
+      "discipline_code": "ARTE I",
+      "discipline_name": "Arte I",
+      "professor": "Marinaldo Lourenço da Silva Souza",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463725"
+    },
+    {
+      "discipline_code": "BIOLOGIA",
+      "discipline_name": "Biologia I",
+      "professor": "Bruna de Brito Souza",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463726"
+    },
+    {
+      "discipline_code": "EDUCAÇÃO F",
+      "discipline_name": "Educação Física I",
+      "professor": "",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463727"
+    },
+    {
+      "discipline_code": "FILOSOFIA",
+      "discipline_name": "Filosofia I",
+      "professor": "Lucas Ollyver Gonçalves Barbosa",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463728"
+    },
+    {
+      "discipline_code": "FÍSICA",
+      "discipline_name": "Física I",
+      "professor": "Alexandre Valença do Nascimento Silva",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463729"
+    },
+    {
+      "discipline_code": "HISTÓRIA",
+      "discipline_name": "História I",
+      "professor": "Marcos Amaral Ferrante",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463730"
+    },
+    {
+      "discipline_code": "INF. BASIC",
+      "discipline_name": "Informática Básica",
+      "professor": "Rosangela Maria de Melo",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463731"
+    },
+    {
+      "discipline_code": "INTRO PROG",
+      "discipline_name": "Introdução à Programação",
+      "professor": "Paulo Roger Gomes Cordeiro",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463732"
+    },
+    {
+      "discipline_code": "INGLÊS",
+      "discipline_name": "Língua Estrangeira - Inglês I",
+      "professor": "Elizabeth de Oliveira Camelo",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463733"
+    },
+    {
+      "discipline_code": "LÍNGUA POR",
+      "discipline_name": "Língua Portuguesa I",
+      "professor": "Ana Carolina Almeida de Barros Albuquerque",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463734"
+    },
+    {
+      "discipline_code": "MAT. APLIC",
+      "discipline_name": "Matemática Aplicada",
+      "professor": "Wandernos de Melo e Silva",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463735"
+    },
+    {
+      "discipline_code": "MATEMÁTICA",
+      "discipline_name": "Matemática I",
+      "professor": "",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463736"
+    },
+    {
+      "discipline_code": "QUÍMICA",
+      "discipline_name": "Química I",
+      "professor": "Rafael José dos Santos",
+      "turma": "20261.TII-PL.1M",
+      "diario": "463737"
+    },
+    {
+      "discipline_code": "MAT. APLIC",
+      "discipline_name": "Matemática Aplicada",
+      "professor": "Wandernos de Melo e Silva",
+      "turma": "20261.TII-PL.1V",
+      "diario": "EXTR463779"
+    },
+    {
+      "discipline_code": "BANC DADOS",
+      "discipline_name": "Banco da Dados I",
+      "professor": "Rodrigo da Rocha Borges de Santana",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463782"
+    },
+    {
+      "discipline_code": "BIOLOGIA",
+      "discipline_name": "Biologia III",
+      "professor": "Bruna de Brito Souza",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463783"
+    },
+    {
+      "discipline_code": "DESENV WEB",
+      "discipline_name": "Desenvolvimento de Sistemas Web I",
+      "professor": "Rodrigo da Rocha Borges de Santana",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463784"
+    },
+    {
+      "discipline_code": "EDUCAÇÃO F",
+      "discipline_name": "Educação Física III",
+      "professor": "",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463785"
+    },
+    {
+      "discipline_code": "FÍSICA",
+      "discipline_name": "Física III",
+      "professor": "Alexandre Valença do Nascimento Silva",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463787"
+    },
+    {
+      "discipline_code": "GEOGRAFIA",
+      "discipline_name": "Geografia II",
+      "professor": "Gleide de Lima Ferreira",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463788"
+    },
+    {
+      "discipline_code": "HISTÓRIA",
+      "discipline_name": "História III",
+      "professor": "Marcos Amaral Ferrante",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463789"
+    },
+    {
+      "discipline_code": "INT SEG I.",
+      "discipline_name": "Introdução à Segurança da Informação",
+      "professor": "Marconi Carvalho de Queiroz",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463790"
+    },
+    {
+      "discipline_code": "INGLÊS",
+      "discipline_name": "Língua Estrangeira - Inglês III",
+      "professor": "Elizabeth de Oliveira Camelo",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463791"
+    },
+    {
+      "discipline_code": "LÍNGUA POR",
+      "discipline_name": "Língua Portuguesa III",
+      "professor": "Ana Carolina Almeida de Barros Albuquerque",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463792"
+    },
+    {
+      "discipline_code": "MATEMÁTICA",
+      "discipline_name": "Matemática III",
+      "professor": "",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463793"
+    },
+    {
+      "discipline_code": "QUÍMICA",
+      "discipline_name": "Química III",
+      "professor": "Rafael José dos Santos",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463794"
+    },
+    {
+      "discipline_code": "SIST. OPER",
+      "discipline_name": "Sistemas Operacionais",
+      "professor": "Marconi Carvalho de Queiroz",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463795"
+    },
+    {
+      "discipline_code": "SOCIOLOGIA",
+      "discipline_name": "Sociologia I",
+      "professor": "Thiago Gabriel Silva Gameiro",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463797"
+    },
+    {
+      "discipline_code": "SOCIOLOGIA",
+      "discipline_name": "Sociologia II",
+      "professor": "Thiago Gabriel Silva Gameiro",
+      "turma": "20261.TII-PL.3M",
+      "diario": "463796"
+    },
+    {
+      "discipline_code": "BIOLOGIA",
+      "discipline_name": "Biologia V",
+      "professor": "Bruna de Brito Souza",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464754"
+    },
+    {
+      "discipline_code": "DES SIS WE",
+      "discipline_name": "Desenvolvimento de Sistemas Web III",
+      "professor": "Rodrigo da Rocha Borges de Santana",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464755"
+    },
+    {
+      "discipline_code": "EDUCAÇÃO F",
+      "discipline_name": "Educação Física V",
+      "professor": "",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464756"
+    },
+    {
+      "discipline_code": "EMPREENDED",
+      "discipline_name": "Empreendedorismo",
+      "professor": "Paava de Barros de Alencar Carvalho",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464757"
+    },
+    {
+      "discipline_code": "FÍSICA",
+      "discipline_name": "Física V",
+      "professor": "Alexandre Valença do Nascimento Silva",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464759"
+    },
+    {
+      "discipline_code": "GEOGRAFIA",
+      "discipline_name": "Geografia IV",
+      "professor": "Gleide de Lima Ferreira",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464760"
+    },
+    {
+      "discipline_code": "HISTÓRIA",
+      "discipline_name": "História V",
+      "professor": "Marcos Amaral Ferrante",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464761"
+    },
+    {
+      "discipline_code": "INTRO PESQ",
+      "discipline_name": "Introdução à Pesquisa",
+      "professor": "Paava de Barros de Alencar Carvalho",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464762"
+    },
+    {
+      "discipline_code": "INT SEG I.",
+      "discipline_name": "Introdução à Segurança da Informação",
+      "professor": "WILBERT SANTANA DOS SANTOS",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464770"
+    },
+    {
+      "discipline_code": "I SIS EMBA",
+      "discipline_name": "Introdução à Sistemas Embarcados",
+      "professor": "Marconi Carvalho de Queiroz",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464763"
+    },
+    {
+      "discipline_code": "INGLÊS",
+      "discipline_name": "Língua Estrangeira - Inglês IV",
+      "professor": "Elizabeth de Oliveira Camelo",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464764"
+    },
+    {
+      "discipline_code": "LÍNGUA POR",
+      "discipline_name": "Língua Portuguesa V",
+      "professor": "Jessica Sabrina de Oliveira Menezes",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464765"
+    },
+    {
+      "discipline_code": "MATEMÁTICA",
+      "discipline_name": "Matemática V",
+      "professor": "Wandernos de Melo e Silva",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464766"
+    },
+    {
+      "discipline_code": "QUÍMICA",
+      "discipline_name": "Química V",
+      "professor": "Rafael José dos Santos",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464767"
+    },
+    {
+      "discipline_code": "SEAMSA",
+      "discipline_name": "Segurança, Meio Ambiente e Saúde",
+      "professor": "MARCELO ALEXANDRE VILELA DA SILVA",
+      "turma": "20261.TII-PL.5M",
+      "diario": "464768"
+    }
+  ],
+  "by_turma": {
+    "20261.ADPL.1V": [
+      {
+        "discipline_code": "ESTATÍSTIC",
+        "discipline_name": "Estatística Básica",
+        "professor": "Carlos Gustavo Paiva Rodrigues",
+        "professor_email": "gustavo.paiva@paulista.ifpe.edu.br",
+        "diario": "459313"
+      },
+      {
+        "discipline_code": "GESTÃO AMB",
+        "discipline_name": "Gestão Ambiental",
+        "professor": "Bruna de Brito Souza",
+        "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+        "diario": "459315"
+      },
+      {
+        "discipline_code": "INFORMÁTIC",
+        "discipline_name": "Informática Básica",
+        "professor": "Rosangela Maria de Melo",
+        "professor_email": "rosangela.melo@paulista.ifpe.edu.br",
+        "diario": "459316"
+      },
+      {
+        "discipline_code": "INTADM",
+        "discipline_name": "Introdução à Administração",
+        "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+        "professor_email": "",
+        "diario": "459317"
+      },
+      {
+        "discipline_code": "MATEMÁTICA",
+        "discipline_name": "Matemática Financeira",
+        "professor": "Camila Mendonça Morais",
+        "professor_email": "camila.morais@paulista.ifpe.edu.br",
+        "diario": "459318"
+      },
+      {
+        "discipline_code": "NDLE",
+        "discipline_name": "Noções de Direito e Legislação Empresarial",
+        "professor": "Eduardo Valfrido da Rocha",
+        "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+        "diario": "459319"
+      },
+      {
+        "discipline_code": "NOCECON",
+        "discipline_name": "Noções de Economia",
+        "professor": "Lutemberg francisco de Andrade Santana",
+        "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+        "diario": "459320"
+      },
+      {
+        "discipline_code": "POR INST",
+        "discipline_name": "Português Instrumental",
+        "professor": "Luciana de Lavôr Nunes",
+        "professor_email": "luciana.lavor@paulista.ifpe.edu.br",
+        "diario": "459321"
+      },
+      {
+        "discipline_code": "ÉTICA PROF",
+        "discipline_name": "Ética Profissional",
+        "professor": "Lucas Ollyver Gonçalves Barbosa",
+        "professor_email": "lucas.ollyver@paulista.ifpe.edu.br",
+        "diario": "459314"
+      }
+    ],
+    "20261.ADPL.2V": [
+      {
+        "discipline_code": "GMEC",
+        "discipline_name": "Gestão de Materiais, Estoque e Compras",
+        "professor": "Luiz Guimarães Ribeiro Neto",
+        "professor_email": "luiz.ribeiro@paulista.ifpe.edu.br",
+        "diario": "459322"
+      },
+      {
+        "discipline_code": "GMPE",
+        "discipline_name": "Gestão de Micro e Pequenas Empresas",
+        "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+        "professor_email": "saulo.medeiros@paulista.ifpe.edu.br",
+        "diario": "459323"
+      },
+      {
+        "discipline_code": "GQPS",
+        "discipline_name": "Gestão de Qualidade, Produtos e Serviços",
+        "professor": "Alexandre Hochmann Behar",
+        "professor_email": "alexandre.behar@paulista.ifpe.edu.br",
+        "diario": "459324"
+      },
+      {
+        "discipline_code": "INGINST",
+        "discipline_name": "Inglês Instrumental",
+        "professor": "Luciana de Lavôr Nunes",
+        "professor_email": "luciana.lavor@paulista.ifpe.edu.br",
+        "diario": "459325"
+      },
+      {
+        "discipline_code": "NCONT",
+        "discipline_name": "Noções de Contabilidade",
+        "professor": "João Bosco de Souza",
+        "professor_email": "joao.souza@paulista.ifpe.edu.br",
+        "diario": "459326"
+      },
+      {
+        "discipline_code": "PTCOM",
+        "discipline_name": "Produção de Textos Comerciais",
+        "professor": "Ana Carolina Almeida de Barros Albuquerque",
+        "professor_email": "ana.albuquerque@paulista.ifpe.edu.br",
+        "diario": "459327"
+      },
+      {
+        "discipline_code": "PSI. ORG.",
+        "discipline_name": "Psicologia Organizacional e Relações Humanas",
+        "professor": "Carlos Alberto Domingues do Nascimento",
+        "professor_email": "carlos.nascimento@paulista.ifpe.edu.br",
+        "diario": "459328"
+      },
+      {
+        "discipline_code": "SEG S.TRAB",
+        "discipline_name": "Segurança e Saúde no Trabalho",
+        "professor": "MARCELO ALEXANDRE VILELA DA SILVA",
+        "professor_email": "marcelo.vilela@paulista.ifpe.edu.br",
+        "diario": "459329"
+      },
+      {
+        "discipline_code": "T SISTEMA",
+        "discipline_name": "Tecnologia e Sistemas de Informação Gerencial",
+        "professor": "Luciano Fernandes Acioli Cabral e Silva",
+        "professor_email": "luciano.acioli@paulista.ifpe.edu.br",
+        "diario": "459330"
+      }
+    ],
+    "20261.ADPL.3V": [
+      {
+        "discipline_code": "CONTGCUST",
+        "discipline_name": "Contabilidade Gerencial e de Custos",
+        "professor": "João Bosco de Souza",
+        "professor_email": "joao.souza@paulista.ifpe.edu.br",
+        "diario": "459331"
+      },
+      {
+        "discipline_code": "ECON MERCA",
+        "discipline_name": "Economia e Mercado",
+        "professor": "Lutemberg francisco de Andrade Santana",
+        "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+        "diario": "459332"
+      },
+      {
+        "discipline_code": "EMPREEND",
+        "discipline_name": "Empreendedorismo",
+        "professor": "Paava de Barros de Alencar Carvalho",
+        "professor_email": "paava.carvalho@paulista.ifpe.edu.br",
+        "diario": "459333"
+      },
+      {
+        "discipline_code": "G.F. ORÇAM",
+        "discipline_name": "Gestão Financeira e Orçamentária",
+        "professor": "Marcelino Jose Caetano",
+        "professor_email": "marcelino.caetano@paulista.ifpe.edu.br",
+        "diario": "459337"
+      },
+      {
+        "discipline_code": "MARKETING",
+        "discipline_name": "Gestão de Marketing",
+        "professor": "Rosecleide Ramos Ferreira",
+        "professor_email": "rose.ferreira@paulista.ifpe.edu.br",
+        "diario": "459334"
+      },
+      {
+        "discipline_code": "G PESSOAS",
+        "discipline_name": "Gestão de Pessoas",
+        "professor": "Alexandre Hochmann Behar",
+        "professor_email": "alexandre.behar@paulista.ifpe.edu.br",
+        "diario": "459335"
+      },
+      {
+        "discipline_code": "GPPROD",
+        "discipline_name": "Gestão de Processos Produtivos",
+        "professor": "Luiz Guimarães Ribeiro Neto",
+        "professor_email": "luiz.ribeiro@paulista.ifpe.edu.br",
+        "diario": "459336"
+      },
+      {
+        "discipline_code": "LTPT",
+        "discipline_name": "Legislação Trabalhista, Previdênciária e Tributária",
+        "professor": "Eduardo Valfrido da Rocha",
+        "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+        "diario": "459338"
+      },
+      {
+        "discipline_code": "N LOGÍSTIC",
+        "discipline_name": "Noções de Logística",
+        "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+        "professor_email": "saulo.medeiros@paulista.ifpe.edu.br",
+        "diario": "459339"
+      }
+    ],
+    "20261.ADSPL.1M": [
+      {
+        "discipline_code": "EMP TIC",
+        "discipline_name": "Empreendedorismo em Négocios de Tic",
+        "professor": "Rosecleide Ramos Ferreira",
+        "professor_email": "rose.ferreira@paulista.ifpe.edu.br",
+        "diario": "459203"
+      },
+      {
+        "discipline_code": "INIC INFO",
+        "discipline_name": "Iniciação à Informática",
+        "professor": "Mercio Antonio Oliveira de Andrade",
+        "professor_email": "mercio.andrade@paulista.ifpe.edu.br",
+        "diario": "459205"
+      },
+      {
+        "discipline_code": "INT PROG",
+        "discipline_name": "Introdução à Programação",
+        "professor": "Paulo Roger Gomes Cordeiro",
+        "professor_email": "",
+        "diario": "459206"
+      },
+      {
+        "discipline_code": "L. ING APL",
+        "discipline_name": "Lingua Inglesa Aplicada",
+        "professor": "Luciana de Lavôr Nunes",
+        "professor_email": "luciana.lavor@paulista.ifpe.edu.br",
+        "diario": "459207"
+      },
+      {
+        "discipline_code": "MAT APLIC",
+        "discipline_name": "Matemática Aplicada",
+        "professor": "Camila Mendonça Morais",
+        "professor_email": "camila.morais@paulista.ifpe.edu.br",
+        "diario": "459208"
+      },
+      {
+        "discipline_code": "E. RES AMB",
+        "discipline_name": "Ética e Responsabilidade Socioambiental",
+        "professor": "Bruna de Brito Souza",
+        "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+        "diario": "459204"
+      }
+    ],
+    "20261.ADSPL.2N": [
+      {
+        "discipline_code": "ARQ COMPUT",
+        "discipline_name": "Arquitetura de Computadores",
+        "professor": "WILBERT SANTANA DOS SANTOS",
+        "professor_email": "wilbert.santos@paulista.ifpe.edu.br",
+        "diario": "459228"
+      },
+      {
+        "discipline_code": "BANC DAD I",
+        "discipline_name": "Banco de Dados I",
+        "professor": "Mário Gomes de Melo",
+        "professor_email": "mario.melo@paulista.ifpe.edu.br",
+        "diario": "459229"
+      },
+      {
+        "discipline_code": "ENG SOFT",
+        "discipline_name": "Engenharia de Software",
+        "professor": "Mário Gomes de Melo",
+        "professor_email": "mario.melo@paulista.ifpe.edu.br",
+        "diario": "459230"
+      },
+      {
+        "discipline_code": "ESTAT APLI",
+        "discipline_name": "Estatística Aplicada",
+        "professor": "Lutemberg francisco de Andrade Santana",
+        "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+        "diario": "459231"
+      },
+      {
+        "discipline_code": "L. PROG OB",
+        "discipline_name": "Linguagem de Programação Orientada a Objetos",
+        "professor": "Antônio Correia de Sá Barreto Neto",
+        "professor_email": "antonio.neto@paulista.ifpe.edu.br",
+        "diario": "459232"
+      },
+      {
+        "discipline_code": "RED COMPT",
+        "discipline_name": "Redes de Computadores",
+        "professor": "WILBERT SANTANA DOS SANTOS",
+        "professor_email": "wilbert.santos@paulista.ifpe.edu.br",
+        "diario": "459233"
+      }
+    ],
+    "20261.ADSPL.3M": [
+      {
+        "discipline_code": "ALG EST DA",
+        "discipline_name": "Algoritmos e Estruturas de Dados",
+        "professor": "Bruno Falcão de Souza Cartaxo",
+        "professor_email": "bruno.cartaxo@paulista.ifpe.edu.br",
+        "diario": "459234"
+      },
+      {
+        "discipline_code": "AN PROJ SI",
+        "discipline_name": "Análise e Projeto de Sistemas",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "459235"
+      },
+      {
+        "discipline_code": "BAN DAD II",
+        "discipline_name": "Banco de Dados II",
+        "professor": "Rodrigo da Rocha Borges de Santana",
+        "professor_email": "rodrigo.rocha@paulista.ifpe.edu.br",
+        "diario": "459236"
+      },
+      {
+        "discipline_code": "DES WEB I",
+        "discipline_name": "Desenvolvimento de Sistemas Web I",
+        "professor": "Mário Gomes de Melo",
+        "professor_email": "mario.melo@paulista.ifpe.edu.br",
+        "diario": "459237"
+      },
+      {
+        "discipline_code": "INT ARTIF",
+        "discipline_name": "Inteligência Artificial",
+        "professor": "Flávio Rosendo da Silva Oliveira",
+        "professor_email": "flavio.oliveira@paulista.ifpe.edu.br",
+        "diario": "459238"
+      }
+    ],
+    "20261.ADSPL.4M": [
+      {
+        "discipline_code": "APREND MAQ",
+        "discipline_name": "Aprendizagem de Máquina",
+        "professor": "Antônio Correia de Sá Barreto Neto",
+        "professor_email": "antonio.neto@paulista.ifpe.edu.br",
+        "diario": "459239"
+      },
+      {
+        "discipline_code": "DES WEB II",
+        "discipline_name": "Desenvolvimento Sistemas Web II",
+        "professor": "Rodrigo Cesar Lira da Silva",
+        "professor_email": "rodrigo.lira@paulista.ifpe.edu.br",
+        "diario": "459240"
+      },
+      {
+        "discipline_code": "MET CIE AP",
+        "discipline_name": "Metodologia Científica Aplicada",
+        "professor": "Flávio Rosendo da Silva Oliveira",
+        "professor_email": "flavio.oliveira@paulista.ifpe.edu.br",
+        "diario": "459241"
+      },
+      {
+        "discipline_code": "SIST DISTR",
+        "discipline_name": "Sistemas Distribuídos",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "459242"
+      },
+      {
+        "discipline_code": "SIST OPERA",
+        "discipline_name": "Sistemas Operacionais",
+        "professor": "Mercio Antonio Oliveira de Andrade",
+        "professor_email": "mercio.andrade@paulista.ifpe.edu.br",
+        "diario": "459243"
+      }
+    ],
+    "20261.ADSPL.5M": [
+      {
+        "discipline_code": "INT TCC",
+        "discipline_name": "Introdução Ao Trabalho de Conclusão de Curso",
+        "professor": "Rodrigo Cesar Lira da Silva",
+        "professor_email": "rodrigo.lira@paulista.ifpe.edu.br",
+        "diario": "459246"
+      },
+      {
+        "discipline_code": "MIN DADOS",
+        "discipline_name": "Mineração de Dados",
+        "professor": "Flávio Rosendo da Silva Oliveira",
+        "professor_email": "flavio.oliveira@paulista.ifpe.edu.br",
+        "diario": "459249"
+      },
+      {
+        "discipline_code": "P. D. SIST",
+        "discipline_name": "Projeto de Desenvolvimento de Sistemas Web",
+        "professor": "Mário Gomes de Melo",
+        "professor_email": "mario.melo@paulista.ifpe.edu.br",
+        "diario": "459253"
+      },
+      {
+        "discipline_code": "TEST SOFT",
+        "discipline_name": "Teste de Software",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "459254"
+      },
+      {
+        "discipline_code": "T. ESP I.A",
+        "discipline_name": "Tópicos Especiais em Inteligência Artificial",
+        "professor": "Rodrigo Cesar Lira da Silva",
+        "professor_email": "rodrigo.lira@paulista.ifpe.edu.br",
+        "diario": "459259"
+      },
+      {
+        "discipline_code": "T. ESP EMB",
+        "discipline_name": "Tópicos Especiais em Sistemas Embarcados",
+        "professor": "Mercio Antonio Oliveira de Andrade",
+        "professor_email": "mercio.andrade@paulista.ifpe.edu.br",
+        "diario": "459261"
+      }
+    ],
+    "20261.ADSPL.6M": [
+      {
+        "discipline_code": "GER PROJET",
+        "discipline_name": "Gerenciamentos de Projetos",
+        "professor": "Marcelino Jose Caetano",
+        "professor_email": "marcelino.caetano@paulista.ifpe.edu.br",
+        "diario": "459263"
+      },
+      {
+        "discipline_code": "PR DES SOF",
+        "discipline_name": "Processos Ágeis em Desenvolvimento de Sofware",
+        "professor": "Antônio Correia de Sá Barreto Neto",
+        "professor_email": "antonio.neto@paulista.ifpe.edu.br",
+        "diario": "459251"
+      },
+      {
+        "discipline_code": "PRO D. MOV",
+        "discipline_name": "Programação para Dispositivos Móveis",
+        "professor": "Antônio Correia de Sá Barreto Neto",
+        "professor_email": "antonio.neto@paulista.ifpe.edu.br",
+        "diario": "459264"
+      },
+      {
+        "discipline_code": "SEG INFORM",
+        "discipline_name": "Segurança da Informação",
+        "professor": "Paulo Roger Gomes Cordeiro",
+        "professor_email": "",
+        "diario": "459265"
+      },
+      {
+        "discipline_code": "T. ESP ELE",
+        "discipline_name": "Tópicos Especiais em Eletrônica",
+        "professor": "Mercio Antonio Oliveira de Andrade",
+        "professor_email": "mercio.andrade@paulista.ifpe.edu.br",
+        "diario": "459257"
+      }
+    ],
+    "20261.TAD-PL.1M": [
+      {
+        "discipline_code": "ARTE I",
+        "discipline_name": "Arte I",
+        "professor": "Marinaldo Lourenço da Silva Souza",
+        "professor_email": "marinaldo.souza@paulista.ifpe.edu.br",
+        "diario": "465307"
+      },
+      {
+        "discipline_code": "BIOLOGIA",
+        "discipline_name": "Biologia I",
+        "professor": "Bruna de Brito Souza",
+        "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+        "diario": "465308"
+      },
+      {
+        "discipline_code": "EDUCAÇÃO F",
+        "discipline_name": "Educação Física I",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "465309"
+      },
+      {
+        "discipline_code": "FILOSOFIA",
+        "discipline_name": "Filosofia I",
+        "professor": "Lucas Ollyver Gonçalves Barbosa",
+        "professor_email": "lucas.ollyver@paulista.ifpe.edu.br",
+        "diario": "465310"
+      },
+      {
+        "discipline_code": "FÍSICA",
+        "discipline_name": "Física I",
+        "professor": "Alexandre Valença do Nascimento Silva",
+        "professor_email": "",
+        "diario": "465311"
+      },
+      {
+        "discipline_code": "HISTÓRIA",
+        "discipline_name": "História I",
+        "professor": "Marcos Amaral Ferrante",
+        "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+        "diario": "465312"
+      },
+      {
+        "discipline_code": "INFBAS",
+        "discipline_name": "Informática Básica",
+        "professor": "Rosangela Maria de Melo",
+        "professor_email": "rosangela.melo@paulista.ifpe.edu.br",
+        "diario": "465313"
+      },
+      {
+        "discipline_code": "INTRO. ADM",
+        "discipline_name": "Introdução à Administração",
+        "professor": "Alba de Oliveira Barbosa",
+        "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+        "diario": "465314"
+      },
+      {
+        "discipline_code": "INGLÊS",
+        "discipline_name": "Língua Estrangeira - Inglês I",
+        "professor": "Elizabeth de Oliveira Camelo",
+        "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+        "diario": "465315"
+      },
+      {
+        "discipline_code": "LÍNGUA POR",
+        "discipline_name": "Língua Portuguesa I",
+        "professor": "Jessica Sabrina de Oliveira Menezes",
+        "professor_email": "jessica.oliveira@paulista.ifpe.edu.br",
+        "diario": "465316"
+      },
+      {
+        "discipline_code": "MATEMÁTICA",
+        "discipline_name": "Matemática I",
+        "professor": "Angeline Maria Cartaxo Muniz",
+        "professor_email": "angeline.muniz@paulista.ifpe.edu.br",
+        "diario": "465317"
+      },
+      {
+        "discipline_code": "QUÍMICA",
+        "discipline_name": "Química I",
+        "professor": "Rafael José dos Santos",
+        "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+        "diario": "465318"
+      },
+      {
+        "discipline_code": "SEGSATRAB",
+        "discipline_name": "Segurança e Saúde no Trabalho",
+        "professor": "MARCELO ALEXANDRE VILELA DA SILVA",
+        "professor_email": "marcelo.vilela@paulista.ifpe.edu.br",
+        "diario": "465319"
+      }
+    ],
+    "20261.TAD-PL.1V": [
+      {
+        "discipline_code": "INTRO. ADM",
+        "discipline_name": "Introdução à Administração",
+        "professor": "Alba de Oliveira Barbosa",
+        "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+        "diario": "465431"
+      },
+      {
+        "discipline_code": "MATEMÁTICA",
+        "discipline_name": "Matemática I",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "465434"
+      }
+    ],
+    "20261.TAD-PL.3M": [
+      {
+        "discipline_code": "BIOLOGIA",
+        "discipline_name": "Biologia III",
+        "professor": "Bruna de Brito Souza",
+        "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+        "diario": "465320"
+      },
+      {
+        "discipline_code": "EDUCAÇÃO F",
+        "discipline_name": "Educação Física III",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "465321"
+      },
+      {
+        "discipline_code": "FÍSICA",
+        "discipline_name": "Física III",
+        "professor": "Alexandre Valença do Nascimento Silva",
+        "professor_email": "",
+        "diario": "465324"
+      },
+      {
+        "discipline_code": "GEOGRAFIA",
+        "discipline_name": "Geografia II",
+        "professor": "Gleide de Lima Ferreira",
+        "professor_email": "gleide.ferreira@paulista.ifpe.edu.br",
+        "diario": "465325"
+      },
+      {
+        "discipline_code": "GEST. MATE",
+        "discipline_name": "Gestão de Materiais, Estoque e Compras",
+        "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+        "professor_email": "",
+        "diario": "465326"
+      },
+      {
+        "discipline_code": "GEST. PESS",
+        "discipline_name": "Gestão de Pessoas",
+        "professor": "Alba de Oliveira Barbosa",
+        "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+        "diario": "465327"
+      },
+      {
+        "discipline_code": "HISTÓRIA",
+        "discipline_name": "História III",
+        "professor": "Marcos Amaral Ferrante",
+        "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+        "diario": "465328"
+      },
+      {
+        "discipline_code": "INFBAS",
+        "discipline_name": "Informática Básica",
+        "professor": "Rosangela Maria de Melo",
+        "professor_email": "rosangela.melo@paulista.ifpe.edu.br",
+        "diario": "465354"
+      },
+      {
+        "discipline_code": "INGLÊS",
+        "discipline_name": "Língua Estrangeira - Inglês III",
+        "professor": "Elizabeth de Oliveira Camelo",
+        "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+        "diario": "465329"
+      },
+      {
+        "discipline_code": "LÍNGUA POR",
+        "discipline_name": "Língua Portuguesa III",
+        "professor": "Ana Carolina Almeida de Barros Albuquerque",
+        "professor_email": "ana.albuquerque@paulista.ifpe.edu.br",
+        "diario": "465330"
+      },
+      {
+        "discipline_code": "MATEMÁTICA",
+        "discipline_name": "Matemática III",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "465331"
+      },
+      {
+        "discipline_code": "NOÇÕE DIRE",
+        "discipline_name": "Noções de Direito e Legislação Empresarial",
+        "professor": "Eduardo Valfrido da Rocha",
+        "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+        "diario": "465332"
+      },
+      {
+        "discipline_code": "NOÇÕES LOG",
+        "discipline_name": "Noções de Logística",
+        "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+        "professor_email": "saulo.medeiros@paulista.ifpe.edu.br",
+        "diario": "465333"
+      },
+      {
+        "discipline_code": "QUÍMICA",
+        "discipline_name": "Química III",
+        "professor": "Rafael José dos Santos",
+        "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+        "diario": "465334"
+      },
+      {
+        "discipline_code": "SEGSATRAB",
+        "discipline_name": "Segurança e Saúde no Trabalho",
+        "professor": "MARCELO ALEXANDRE VILELA DA SILVA",
+        "professor_email": "marcelo.vilela@paulista.ifpe.edu.br",
+        "diario": "465355"
+      }
+    ],
+    "20261.TAD-PL.5M": [
+      {
+        "discipline_code": "BIOLOGIA",
+        "discipline_name": "Biologia V",
+        "professor": "Bruna de Brito Souza",
+        "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+        "diario": "465336"
+      },
+      {
+        "discipline_code": "CONT GEREN",
+        "discipline_name": "Contabilidade Gerencial e de Custos",
+        "professor": "Carlos Gustavo Paiva Rodrigues",
+        "professor_email": "gustavo.paiva@paulista.ifpe.edu.br",
+        "diario": "465337"
+      },
+      {
+        "discipline_code": "ECON. MERC",
+        "discipline_name": "Economia e Mercado",
+        "professor": "Lutemberg francisco de Andrade Santana",
+        "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+        "diario": "465338"
+      },
+      {
+        "discipline_code": "FÍSICA",
+        "discipline_name": "Física V",
+        "professor": "Alexandre Valença do Nascimento Silva",
+        "professor_email": "",
+        "diario": "465341"
+      },
+      {
+        "discipline_code": "GEOGRAFIA",
+        "discipline_name": "Geografia IV",
+        "professor": "Gleide de Lima Ferreira",
+        "professor_email": "gleide.ferreira@paulista.ifpe.edu.br",
+        "diario": "465342"
+      },
+      {
+        "discipline_code": "GEST. FIN",
+        "discipline_name": "Gestão Financeira e Orçamentária",
+        "professor": "Carlos Gustavo Paiva Rodrigues",
+        "professor_email": "gustavo.paiva@paulista.ifpe.edu.br",
+        "diario": "465345"
+      },
+      {
+        "discipline_code": "GEST QUALI",
+        "discipline_name": "Gestão da Qualidade de Produtos e Serviços",
+        "professor": "Rosecleide Ramos Ferreira",
+        "professor_email": "rose.ferreira@paulista.ifpe.edu.br",
+        "diario": "465343"
+      },
+      {
+        "discipline_code": "HISTÓRIA",
+        "discipline_name": "História V",
+        "professor": "Marcos Amaral Ferrante",
+        "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+        "diario": "465346"
+      },
+      {
+        "discipline_code": "INGLÊS",
+        "discipline_name": "Língua Estrangeira - Inglês IV",
+        "professor": "Elizabeth de Oliveira Camelo",
+        "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+        "diario": "465347"
+      },
+      {
+        "discipline_code": "LÍNGUA POR",
+        "discipline_name": "Língua Portuguesa V",
+        "professor": "Jessica Sabrina de Oliveira Menezes",
+        "professor_email": "jessica.oliveira@paulista.ifpe.edu.br",
+        "diario": "465348"
+      },
+      {
+        "discipline_code": "MATEMÁTICA",
+        "discipline_name": "Matemática V",
+        "professor": "Camila Mendonça Morais",
+        "professor_email": "camila.morais@paulista.ifpe.edu.br",
+        "diario": "465349"
+      },
+      {
+        "discipline_code": "NOÇÕ CONT",
+        "discipline_name": "Noções de Contabilidade",
+        "professor": "Carlos Gustavo Paiva Rodrigues",
+        "professor_email": "gustavo.paiva@paulista.ifpe.edu.br",
+        "diario": "465373"
+      },
+      {
+        "discipline_code": "NOÇÕE DIRE",
+        "discipline_name": "Noções de Direito e Legislação Empresarial",
+        "professor": "Eduardo Valfrido da Rocha",
+        "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+        "diario": "465384"
+      },
+      {
+        "discipline_code": "NOÇÕE ECON",
+        "discipline_name": "Noções de Economia",
+        "professor": "Lutemberg francisco de Andrade Santana",
+        "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+        "diario": "465383"
+      },
+      {
+        "discipline_code": "QUÍMICA",
+        "discipline_name": "Química V",
+        "professor": "Rafael José dos Santos",
+        "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+        "diario": "465350"
+      }
+    ],
+    "20261.TGPL.1N": [
+      {
+        "discipline_code": "INT ADM",
+        "discipline_name": "Introdução à Administração",
+        "professor": "Alba de Oliveira Barbosa",
+        "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+        "diario": "459266"
+      },
+      {
+        "discipline_code": "I.CONTABIL",
+        "discipline_name": "Introdução à Contabilidade",
+        "professor": "João Bosco de Souza",
+        "professor_email": "joao.souza@paulista.ifpe.edu.br",
+        "diario": "459267"
+      },
+      {
+        "discipline_code": "INT.ECONOM",
+        "discipline_name": "Introdução à Economia",
+        "professor": "Lutemberg francisco de Andrade Santana",
+        "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+        "diario": "459268"
+      },
+      {
+        "discipline_code": "MAT BÁS",
+        "discipline_name": "Matemática Básica",
+        "professor": "Wandernos de Melo e Silva",
+        "professor_email": "wandernos.silva@paulista.ifpe.edu.br",
+        "diario": "459269"
+      },
+      {
+        "discipline_code": "N.DIREITO",
+        "discipline_name": "Noções de Direito Administrativo",
+        "professor": "Eduardo Valfrido da Rocha",
+        "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+        "diario": "459270"
+      },
+      {
+        "discipline_code": "SOCIOLOGIA",
+        "discipline_name": "Sociologia Aplicada à Administração",
+        "professor": "Thiago Gabriel Silva Gameiro",
+        "professor_email": "gabriel.gameiro@paulista.ifpe.edu.br",
+        "diario": "459271"
+      }
+    ],
+    "20261.TGPL.2N": [
+      {
+        "discipline_code": "ESTATISTIC",
+        "discipline_name": "Estatística Básica",
+        "professor": "Wandernos de Melo e Silva",
+        "professor_email": "wandernos.silva@paulista.ifpe.edu.br",
+        "diario": "459272"
+      },
+      {
+        "discipline_code": "GESTÃO PÚB",
+        "discipline_name": "Noções de Gestão Pública",
+        "professor": "Alba de Oliveira Barbosa",
+        "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+        "diario": "459274"
+      },
+      {
+        "discipline_code": "ORATÓRIA",
+        "discipline_name": "Oratória e Retórica",
+        "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+        "professor_email": "saulo.medeiros@paulista.ifpe.edu.br",
+        "diario": "459275"
+      },
+      {
+        "discipline_code": "T. CIENTÍF",
+        "discipline_name": "Organização do Trabalho Científico",
+        "professor": "Alexandre Hochmann Behar",
+        "professor_email": "alexandre.behar@paulista.ifpe.edu.br",
+        "diario": "459276"
+      },
+      {
+        "discipline_code": "COM EMPRES",
+        "discipline_name": "Produção Textual e Comunicação Empresarial",
+        "professor": "Luciana de Lavôr Nunes",
+        "professor_email": "luciana.lavor@paulista.ifpe.edu.br",
+        "diario": "459277"
+      },
+      {
+        "discipline_code": "ÉTICA",
+        "discipline_name": "Ética",
+        "professor": "Lucas Ollyver Gonçalves Barbosa",
+        "professor_email": "lucas.ollyver@paulista.ifpe.edu.br",
+        "diario": "459273"
+      }
+    ],
+    "20261.TGPL.3N": [
+      {
+        "discipline_code": "GESTÃO AMB",
+        "discipline_name": "Gestão Ambiental e Sustenbtabilidade",
+        "professor": "Bruna de Brito Souza",
+        "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+        "diario": "459278"
+      },
+      {
+        "discipline_code": "MAT FINANC",
+        "discipline_name": "Matemática Financeira",
+        "professor": "Camila Mendonça Morais",
+        "professor_email": "camila.morais@paulista.ifpe.edu.br",
+        "diario": "459279"
+      },
+      {
+        "discipline_code": "DIREIT EMP",
+        "discipline_name": "Noções de Direito e Legislação Empresarial",
+        "professor": "Eduardo Valfrido da Rocha",
+        "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+        "diario": "459280"
+      },
+      {
+        "discipline_code": "PSICOLOGIA",
+        "discipline_name": "Psicologia Organizacional",
+        "professor": "Carlos Alberto Domingues do Nascimento",
+        "professor_email": "carlos.nascimento@paulista.ifpe.edu.br",
+        "diario": "459281"
+      },
+      {
+        "discipline_code": "R C ORGANI",
+        "discipline_name": "Reflexões Críticas e Organizações",
+        "professor": "Alexandre Hochmann Behar",
+        "professor_email": "alexandre.behar@paulista.ifpe.edu.br",
+        "diario": "459282"
+      },
+      {
+        "discipline_code": "INFORMAÇÃO",
+        "discipline_name": "Sistema de Informação Gerancial",
+        "professor": "Luciano Fernandes Acioli Cabral e Silva",
+        "professor_email": "luciano.acioli@paulista.ifpe.edu.br",
+        "diario": "459283"
+      }
+    ],
+    "20261.TGPL.4N": [
+      {
+        "discipline_code": "ESTÁGIO SU",
+        "discipline_name": "Estágio Curricular Supervisionado",
+        "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+        "professor_email": "",
+        "diario": "459285"
+      },
+      {
+        "discipline_code": "F.G.QUALID",
+        "discipline_name": "Fundamentos da Gestão da Qualidade",
+        "professor": "Luiz Guimarães Ribeiro Neto",
+        "professor_email": "luiz.ribeiro@paulista.ifpe.edu.br",
+        "diario": "459286"
+      },
+      {
+        "discipline_code": "GESTÃO AMB",
+        "discipline_name": "Gestão Ambiental e Sustenbtabilidade",
+        "professor": "Bruna de Brito Souza",
+        "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+        "diario": "459398"
+      },
+      {
+        "discipline_code": "CUSTOS",
+        "discipline_name": "Gestão de Custos",
+        "professor": "João Bosco de Souza",
+        "professor_email": "joao.souza@paulista.ifpe.edu.br",
+        "diario": "459287"
+      },
+      {
+        "discipline_code": "G. LOGÍSTI",
+        "discipline_name": "Gestão de Materias e Logística",
+        "professor": "Luiz Guimarães Ribeiro Neto",
+        "professor_email": "luiz.ribeiro@paulista.ifpe.edu.br",
+        "diario": "459288"
+      },
+      {
+        "discipline_code": "PROC DECIS",
+        "discipline_name": "Processo Decisório",
+        "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+        "professor_email": "",
+        "diario": "459291"
+      },
+      {
+        "discipline_code": "PROJ. INT1",
+        "discipline_name": "Projeto Integrador I",
+        "professor": "Paava de Barros de Alencar Carvalho",
+        "professor_email": "paava.carvalho@paulista.ifpe.edu.br",
+        "diario": "459292"
+      },
+      {
+        "discipline_code": "VIAB ECONM",
+        "discipline_name": "Viabilidade Econômico- Financeira",
+        "professor": "João Bosco de Souza",
+        "professor_email": "joao.souza@paulista.ifpe.edu.br",
+        "diario": "459293"
+      }
+    ],
+    "20261.TGPL.5N": [
+      {
+        "discipline_code": "ESTRATÉGIA",
+        "discipline_name": "Estratégia Organizacional",
+        "professor": "Alexandre Hochmann Behar",
+        "professor_email": "alexandre.behar@paulista.ifpe.edu.br",
+        "diario": "459296"
+      },
+      {
+        "discipline_code": "G F ORÇAM1",
+        "discipline_name": "Gestão Financeira e Orçamentária I",
+        "professor": "Luiz Guimarães Ribeiro Neto",
+        "professor_email": "luiz.ribeiro@paulista.ifpe.edu.br",
+        "diario": "459299"
+      },
+      {
+        "discipline_code": "G.MARKTING",
+        "discipline_name": "Gestão de Marketing",
+        "professor": "Paava de Barros de Alencar Carvalho",
+        "professor_email": "paava.carvalho@paulista.ifpe.edu.br",
+        "diario": "459297"
+      },
+      {
+        "discipline_code": "G. PESSOA",
+        "discipline_name": "Gestão de Pessoa",
+        "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+        "professor_email": "",
+        "diario": "459298"
+      },
+      {
+        "discipline_code": "INT.TCC",
+        "discipline_name": "Introdução Ao Trabalho de Conclusão de Curso",
+        "professor": "Alba de Oliveira Barbosa",
+        "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+        "diario": "459300"
+      },
+      {
+        "discipline_code": "NOÇAO ORÇA",
+        "discipline_name": "Noções de Orçamento Público",
+        "professor": "Carlos Gustavo Paiva Rodrigues",
+        "professor_email": "gustavo.paiva@paulista.ifpe.edu.br",
+        "diario": "459302"
+      },
+      {
+        "discipline_code": "PROJ INT2",
+        "discipline_name": "Projeto Integrador II",
+        "professor": "Luciano Fernandes Acioli Cabral e Silva",
+        "professor_email": "luciano.acioli@paulista.ifpe.edu.br",
+        "diario": "459303"
+      }
+    ],
+    "20261.TGPL.6N": [
+      {
+        "discipline_code": "DIAG EMPRE",
+        "discipline_name": "Diagnóstico e Consultoria Empresarial",
+        "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+        "professor_email": "",
+        "diario": "459305"
+      },
+      {
+        "discipline_code": "EMPREENDED",
+        "discipline_name": "Empreendedorismo e Gestão de Micro e Pequenas",
+        "professor": "Rosecleide Ramos Ferreira",
+        "professor_email": "rose.ferreira@paulista.ifpe.edu.br",
+        "diario": "459307"
+      },
+      {
+        "discipline_code": "G.ORÇAM 2",
+        "discipline_name": "Gestão Financeira e Orçamentária II",
+        "professor": "Marcelino Jose Caetano",
+        "professor_email": "marcelino.caetano@paulista.ifpe.edu.br",
+        "diario": "459311"
+      },
+      {
+        "discipline_code": "PROD PROJ",
+        "discipline_name": "Gestão da Produção e Projetos",
+        "professor": "Luciano Fernandes Acioli Cabral e Silva",
+        "professor_email": "luciano.acioli@paulista.ifpe.edu.br",
+        "diario": "459308"
+      },
+      {
+        "discipline_code": "GEST SAUDE",
+        "discipline_name": "Gestão de Sistemas de Saúde",
+        "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+        "professor_email": "saulo.medeiros@paulista.ifpe.edu.br",
+        "diario": "459310"
+      }
+    ],
+    "20261.TII-PL.1M": [
+      {
+        "discipline_code": "ARQT. COMP",
+        "discipline_name": "Arquitetura de Computadores",
+        "professor": "Ivanildo José de Melo Filho",
+        "professor_email": "ivanildo.melo@paulista.ifpe.edu.br",
+        "diario": "463724"
+      },
+      {
+        "discipline_code": "ARTE I",
+        "discipline_name": "Arte I",
+        "professor": "Marinaldo Lourenço da Silva Souza",
+        "professor_email": "marinaldo.souza@paulista.ifpe.edu.br",
+        "diario": "463725"
+      },
+      {
+        "discipline_code": "BIOLOGIA",
+        "discipline_name": "Biologia I",
+        "professor": "Bruna de Brito Souza",
+        "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+        "diario": "463726"
+      },
+      {
+        "discipline_code": "EDUCAÇÃO F",
+        "discipline_name": "Educação Física I",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "463727"
+      },
+      {
+        "discipline_code": "FILOSOFIA",
+        "discipline_name": "Filosofia I",
+        "professor": "Lucas Ollyver Gonçalves Barbosa",
+        "professor_email": "lucas.ollyver@paulista.ifpe.edu.br",
+        "diario": "463728"
+      },
+      {
+        "discipline_code": "FÍSICA",
+        "discipline_name": "Física I",
+        "professor": "Alexandre Valença do Nascimento Silva",
+        "professor_email": "",
+        "diario": "463729"
+      },
+      {
+        "discipline_code": "HISTÓRIA",
+        "discipline_name": "História I",
+        "professor": "Marcos Amaral Ferrante",
+        "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+        "diario": "463730"
+      },
+      {
+        "discipline_code": "INF. BASIC",
+        "discipline_name": "Informática Básica",
+        "professor": "Rosangela Maria de Melo",
+        "professor_email": "rosangela.melo@paulista.ifpe.edu.br",
+        "diario": "463731"
+      },
+      {
+        "discipline_code": "INTRO PROG",
+        "discipline_name": "Introdução à Programação",
+        "professor": "Paulo Roger Gomes Cordeiro",
+        "professor_email": "",
+        "diario": "463732"
+      },
+      {
+        "discipline_code": "INGLÊS",
+        "discipline_name": "Língua Estrangeira - Inglês I",
+        "professor": "Elizabeth de Oliveira Camelo",
+        "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+        "diario": "463733"
+      },
+      {
+        "discipline_code": "LÍNGUA POR",
+        "discipline_name": "Língua Portuguesa I",
+        "professor": "Ana Carolina Almeida de Barros Albuquerque",
+        "professor_email": "ana.albuquerque@paulista.ifpe.edu.br",
+        "diario": "463734"
+      },
+      {
+        "discipline_code": "MAT. APLIC",
+        "discipline_name": "Matemática Aplicada",
+        "professor": "Wandernos de Melo e Silva",
+        "professor_email": "wandernos.silva@paulista.ifpe.edu.br",
+        "diario": "463735"
+      },
+      {
+        "discipline_code": "MATEMÁTICA",
+        "discipline_name": "Matemática I",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "463736"
+      },
+      {
+        "discipline_code": "QUÍMICA",
+        "discipline_name": "Química I",
+        "professor": "Rafael José dos Santos",
+        "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+        "diario": "463737"
+      }
+    ],
+    "20261.TII-PL.1V": [
+      {
+        "discipline_code": "MAT. APLIC",
+        "discipline_name": "Matemática Aplicada",
+        "professor": "Wandernos de Melo e Silva",
+        "professor_email": "wandernos.silva@paulista.ifpe.edu.br",
+        "diario": "EXTR463779"
+      }
+    ],
+    "20261.TII-PL.3M": [
+      {
+        "discipline_code": "BANC DADOS",
+        "discipline_name": "Banco da Dados I",
+        "professor": "Rodrigo da Rocha Borges de Santana",
+        "professor_email": "rodrigo.rocha@paulista.ifpe.edu.br",
+        "diario": "463782"
+      },
+      {
+        "discipline_code": "BIOLOGIA",
+        "discipline_name": "Biologia III",
+        "professor": "Bruna de Brito Souza",
+        "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+        "diario": "463783"
+      },
+      {
+        "discipline_code": "DESENV WEB",
+        "discipline_name": "Desenvolvimento de Sistemas Web I",
+        "professor": "Rodrigo da Rocha Borges de Santana",
+        "professor_email": "rodrigo.rocha@paulista.ifpe.edu.br",
+        "diario": "463784"
+      },
+      {
+        "discipline_code": "EDUCAÇÃO F",
+        "discipline_name": "Educação Física III",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "463785"
+      },
+      {
+        "discipline_code": "FÍSICA",
+        "discipline_name": "Física III",
+        "professor": "Alexandre Valença do Nascimento Silva",
+        "professor_email": "",
+        "diario": "463787"
+      },
+      {
+        "discipline_code": "GEOGRAFIA",
+        "discipline_name": "Geografia II",
+        "professor": "Gleide de Lima Ferreira",
+        "professor_email": "gleide.ferreira@paulista.ifpe.edu.br",
+        "diario": "463788"
+      },
+      {
+        "discipline_code": "HISTÓRIA",
+        "discipline_name": "História III",
+        "professor": "Marcos Amaral Ferrante",
+        "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+        "diario": "463789"
+      },
+      {
+        "discipline_code": "INT SEG I.",
+        "discipline_name": "Introdução à Segurança da Informação",
+        "professor": "Marconi Carvalho de Queiroz",
+        "professor_email": "marconi.queiroz@paulista.ifpe.edu.br",
+        "diario": "463790"
+      },
+      {
+        "discipline_code": "INGLÊS",
+        "discipline_name": "Língua Estrangeira - Inglês III",
+        "professor": "Elizabeth de Oliveira Camelo",
+        "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+        "diario": "463791"
+      },
+      {
+        "discipline_code": "LÍNGUA POR",
+        "discipline_name": "Língua Portuguesa III",
+        "professor": "Ana Carolina Almeida de Barros Albuquerque",
+        "professor_email": "ana.albuquerque@paulista.ifpe.edu.br",
+        "diario": "463792"
+      },
+      {
+        "discipline_code": "MATEMÁTICA",
+        "discipline_name": "Matemática III",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "463793"
+      },
+      {
+        "discipline_code": "QUÍMICA",
+        "discipline_name": "Química III",
+        "professor": "Rafael José dos Santos",
+        "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+        "diario": "463794"
+      },
+      {
+        "discipline_code": "SIST. OPER",
+        "discipline_name": "Sistemas Operacionais",
+        "professor": "Marconi Carvalho de Queiroz",
+        "professor_email": "marconi.queiroz@paulista.ifpe.edu.br",
+        "diario": "463795"
+      },
+      {
+        "discipline_code": "SOCIOLOGIA",
+        "discipline_name": "Sociologia I",
+        "professor": "Thiago Gabriel Silva Gameiro",
+        "professor_email": "gabriel.gameiro@paulista.ifpe.edu.br",
+        "diario": "463797"
+      },
+      {
+        "discipline_code": "SOCIOLOGIA",
+        "discipline_name": "Sociologia II",
+        "professor": "Thiago Gabriel Silva Gameiro",
+        "professor_email": "gabriel.gameiro@paulista.ifpe.edu.br",
+        "diario": "463796"
+      }
+    ],
+    "20261.TII-PL.5M": [
+      {
+        "discipline_code": "BIOLOGIA",
+        "discipline_name": "Biologia V",
+        "professor": "Bruna de Brito Souza",
+        "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+        "diario": "464754"
+      },
+      {
+        "discipline_code": "DES SIS WE",
+        "discipline_name": "Desenvolvimento de Sistemas Web III",
+        "professor": "Rodrigo da Rocha Borges de Santana",
+        "professor_email": "rodrigo.rocha@paulista.ifpe.edu.br",
+        "diario": "464755"
+      },
+      {
+        "discipline_code": "EDUCAÇÃO F",
+        "discipline_name": "Educação Física V",
+        "professor": "Não informado",
+        "professor_email": "",
+        "diario": "464756"
+      },
+      {
+        "discipline_code": "EMPREENDED",
+        "discipline_name": "Empreendedorismo",
+        "professor": "Paava de Barros de Alencar Carvalho",
+        "professor_email": "paava.carvalho@paulista.ifpe.edu.br",
+        "diario": "464757"
+      },
+      {
+        "discipline_code": "FÍSICA",
+        "discipline_name": "Física V",
+        "professor": "Alexandre Valença do Nascimento Silva",
+        "professor_email": "",
+        "diario": "464759"
+      },
+      {
+        "discipline_code": "GEOGRAFIA",
+        "discipline_name": "Geografia IV",
+        "professor": "Gleide de Lima Ferreira",
+        "professor_email": "gleide.ferreira@paulista.ifpe.edu.br",
+        "diario": "464760"
+      },
+      {
+        "discipline_code": "HISTÓRIA",
+        "discipline_name": "História V",
+        "professor": "Marcos Amaral Ferrante",
+        "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+        "diario": "464761"
+      },
+      {
+        "discipline_code": "INTRO PESQ",
+        "discipline_name": "Introdução à Pesquisa",
+        "professor": "Paava de Barros de Alencar Carvalho",
+        "professor_email": "paava.carvalho@paulista.ifpe.edu.br",
+        "diario": "464762"
+      },
+      {
+        "discipline_code": "INT SEG I.",
+        "discipline_name": "Introdução à Segurança da Informação",
+        "professor": "WILBERT SANTANA DOS SANTOS",
+        "professor_email": "wilbert.santos@paulista.ifpe.edu.br",
+        "diario": "464770"
+      },
+      {
+        "discipline_code": "I SIS EMBA",
+        "discipline_name": "Introdução à Sistemas Embarcados",
+        "professor": "Marconi Carvalho de Queiroz",
+        "professor_email": "marconi.queiroz@paulista.ifpe.edu.br",
+        "diario": "464763"
+      },
+      {
+        "discipline_code": "INGLÊS",
+        "discipline_name": "Língua Estrangeira - Inglês IV",
+        "professor": "Elizabeth de Oliveira Camelo",
+        "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+        "diario": "464764"
+      },
+      {
+        "discipline_code": "LÍNGUA POR",
+        "discipline_name": "Língua Portuguesa V",
+        "professor": "Jessica Sabrina de Oliveira Menezes",
+        "professor_email": "jessica.oliveira@paulista.ifpe.edu.br",
+        "diario": "464765"
+      },
+      {
+        "discipline_code": "MATEMÁTICA",
+        "discipline_name": "Matemática V",
+        "professor": "Wandernos de Melo e Silva",
+        "professor_email": "wandernos.silva@paulista.ifpe.edu.br",
+        "diario": "464766"
+      },
+      {
+        "discipline_code": "QUÍMICA",
+        "discipline_name": "Química V",
+        "professor": "Rafael José dos Santos",
+        "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+        "diario": "464767"
+      },
+      {
+        "discipline_code": "SEAMSA",
+        "discipline_name": "Segurança, Meio Ambiente e Saúde",
+        "professor": "MARCELO ALEXANDRE VILELA DA SILVA",
+        "professor_email": "marcelo.vilela@paulista.ifpe.edu.br",
+        "diario": "464768"
+      }
+    ]
+  },
+  "by_professor": {
+    "alba de oliveira barbosa": {
+      "professor": "Alba de Oliveira Barbosa",
+      "email": "alba.barbosa@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "INTRO. ADM",
+          "discipline_name": "Introdução à Administração",
+          "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+          "diario": "465314"
+        },
+        {
+          "turma": "20261.TAD-PL.1V",
+          "discipline_code": "INTRO. ADM",
+          "discipline_name": "Introdução à Administração",
+          "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+          "diario": "465431"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "GEST. PESS",
+          "discipline_name": "Gestão de Pessoas",
+          "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+          "diario": "465327"
+        },
+        {
+          "turma": "20261.TGPL.1N",
+          "discipline_code": "INT ADM",
+          "discipline_name": "Introdução à Administração",
+          "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+          "diario": "459266"
+        },
+        {
+          "turma": "20261.TGPL.2N",
+          "discipline_code": "GESTÃO PÚB",
+          "discipline_name": "Noções de Gestão Pública",
+          "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+          "diario": "459274"
+        },
+        {
+          "turma": "20261.TGPL.5N",
+          "discipline_code": "INT.TCC",
+          "discipline_name": "Introdução Ao Trabalho de Conclusão de Curso",
+          "professor_email": "alba.barbosa@paulista.ifpe.edu.br",
+          "diario": "459300"
+        }
+      ]
+    },
+    "alexandre hochmann behar": {
+      "professor": "Alexandre Hochmann Behar",
+      "email": "alexandre.behar@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.2V",
+          "discipline_code": "GQPS",
+          "discipline_name": "Gestão de Qualidade, Produtos e Serviços",
+          "professor_email": "alexandre.behar@paulista.ifpe.edu.br",
+          "diario": "459324"
+        },
+        {
+          "turma": "20261.ADPL.3V",
+          "discipline_code": "G PESSOAS",
+          "discipline_name": "Gestão de Pessoas",
+          "professor_email": "alexandre.behar@paulista.ifpe.edu.br",
+          "diario": "459335"
+        },
+        {
+          "turma": "20261.TGPL.2N",
+          "discipline_code": "T. CIENTÍF",
+          "discipline_name": "Organização do Trabalho Científico",
+          "professor_email": "alexandre.behar@paulista.ifpe.edu.br",
+          "diario": "459276"
+        },
+        {
+          "turma": "20261.TGPL.3N",
+          "discipline_code": "R C ORGANI",
+          "discipline_name": "Reflexões Críticas e Organizações",
+          "professor_email": "alexandre.behar@paulista.ifpe.edu.br",
+          "diario": "459282"
+        },
+        {
+          "turma": "20261.TGPL.5N",
+          "discipline_code": "ESTRATÉGIA",
+          "discipline_name": "Estratégia Organizacional",
+          "professor_email": "alexandre.behar@paulista.ifpe.edu.br",
+          "diario": "459296"
+        }
+      ]
+    },
+    "alexandre valenca do nascimento silva": {
+      "professor": "Alexandre Valença do Nascimento Silva",
+      "email": "",
+      "items": [
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "FÍSICA",
+          "discipline_name": "Física I",
+          "professor_email": "",
+          "diario": "465311"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "FÍSICA",
+          "discipline_name": "Física III",
+          "professor_email": "",
+          "diario": "465324"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "FÍSICA",
+          "discipline_name": "Física V",
+          "professor_email": "",
+          "diario": "465341"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "FÍSICA",
+          "discipline_name": "Física I",
+          "professor_email": "",
+          "diario": "463729"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "FÍSICA",
+          "discipline_name": "Física III",
+          "professor_email": "",
+          "diario": "463787"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "FÍSICA",
+          "discipline_name": "Física V",
+          "professor_email": "",
+          "diario": "464759"
+        }
+      ]
+    },
+    "ana carolina almeida de barros albuquerque": {
+      "professor": "Ana Carolina Almeida de Barros Albuquerque",
+      "email": "ana.albuquerque@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.2V",
+          "discipline_code": "PTCOM",
+          "discipline_name": "Produção de Textos Comerciais",
+          "professor_email": "ana.albuquerque@paulista.ifpe.edu.br",
+          "diario": "459327"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "LÍNGUA POR",
+          "discipline_name": "Língua Portuguesa III",
+          "professor_email": "ana.albuquerque@paulista.ifpe.edu.br",
+          "diario": "465330"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "LÍNGUA POR",
+          "discipline_name": "Língua Portuguesa I",
+          "professor_email": "ana.albuquerque@paulista.ifpe.edu.br",
+          "diario": "463734"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "LÍNGUA POR",
+          "discipline_name": "Língua Portuguesa III",
+          "professor_email": "ana.albuquerque@paulista.ifpe.edu.br",
+          "diario": "463792"
+        }
+      ]
+    },
+    "angeline maria cartaxo muniz": {
+      "professor": "Angeline Maria Cartaxo Muniz",
+      "email": "angeline.muniz@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "MATEMÁTICA",
+          "discipline_name": "Matemática I",
+          "professor_email": "angeline.muniz@paulista.ifpe.edu.br",
+          "diario": "465317"
+        }
+      ]
+    },
+    "antonio correia de sa barreto neto": {
+      "professor": "Antônio Correia de Sá Barreto Neto",
+      "email": "antonio.neto@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADSPL.2N",
+          "discipline_code": "L. PROG OB",
+          "discipline_name": "Linguagem de Programação Orientada a Objetos",
+          "professor_email": "antonio.neto@paulista.ifpe.edu.br",
+          "diario": "459232"
+        },
+        {
+          "turma": "20261.ADSPL.4M",
+          "discipline_code": "APREND MAQ",
+          "discipline_name": "Aprendizagem de Máquina",
+          "professor_email": "antonio.neto@paulista.ifpe.edu.br",
+          "diario": "459239"
+        },
+        {
+          "turma": "20261.ADSPL.6M",
+          "discipline_code": "PR DES SOF",
+          "discipline_name": "Processos Ágeis em Desenvolvimento de Sofware",
+          "professor_email": "antonio.neto@paulista.ifpe.edu.br",
+          "diario": "459251"
+        },
+        {
+          "turma": "20261.ADSPL.6M",
+          "discipline_code": "PRO D. MOV",
+          "discipline_name": "Programação para Dispositivos Móveis",
+          "professor_email": "antonio.neto@paulista.ifpe.edu.br",
+          "diario": "459264"
+        }
+      ]
+    },
+    "bruna de brito souza": {
+      "professor": "Bruna de Brito Souza",
+      "email": "bruna.souza@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.1V",
+          "discipline_code": "GESTÃO AMB",
+          "discipline_name": "Gestão Ambiental",
+          "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+          "diario": "459315"
+        },
+        {
+          "turma": "20261.ADSPL.1M",
+          "discipline_code": "E. RES AMB",
+          "discipline_name": "Ética e Responsabilidade Socioambiental",
+          "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+          "diario": "459204"
+        },
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "BIOLOGIA",
+          "discipline_name": "Biologia I",
+          "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+          "diario": "465308"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "BIOLOGIA",
+          "discipline_name": "Biologia III",
+          "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+          "diario": "465320"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "BIOLOGIA",
+          "discipline_name": "Biologia V",
+          "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+          "diario": "465336"
+        },
+        {
+          "turma": "20261.TGPL.3N",
+          "discipline_code": "GESTÃO AMB",
+          "discipline_name": "Gestão Ambiental e Sustenbtabilidade",
+          "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+          "diario": "459278"
+        },
+        {
+          "turma": "20261.TGPL.4N",
+          "discipline_code": "GESTÃO AMB",
+          "discipline_name": "Gestão Ambiental e Sustenbtabilidade",
+          "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+          "diario": "459398"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "BIOLOGIA",
+          "discipline_name": "Biologia I",
+          "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+          "diario": "463726"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "BIOLOGIA",
+          "discipline_name": "Biologia III",
+          "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+          "diario": "463783"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "BIOLOGIA",
+          "discipline_name": "Biologia V",
+          "professor_email": "bruna.souza@paulista.ifpe.edu.br",
+          "diario": "464754"
+        }
+      ]
+    },
+    "bruno falcao de souza cartaxo": {
+      "professor": "Bruno Falcão de Souza Cartaxo",
+      "email": "bruno.cartaxo@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADSPL.3M",
+          "discipline_code": "ALG EST DA",
+          "discipline_name": "Algoritmos e Estruturas de Dados",
+          "professor_email": "bruno.cartaxo@paulista.ifpe.edu.br",
+          "diario": "459234"
+        }
+      ]
+    },
+    "camila mendonca morais": {
+      "professor": "Camila Mendonça Morais",
+      "email": "camila.morais@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.1V",
+          "discipline_code": "MATEMÁTICA",
+          "discipline_name": "Matemática Financeira",
+          "professor_email": "camila.morais@paulista.ifpe.edu.br",
+          "diario": "459318"
+        },
+        {
+          "turma": "20261.ADSPL.1M",
+          "discipline_code": "MAT APLIC",
+          "discipline_name": "Matemática Aplicada",
+          "professor_email": "camila.morais@paulista.ifpe.edu.br",
+          "diario": "459208"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "MATEMÁTICA",
+          "discipline_name": "Matemática V",
+          "professor_email": "camila.morais@paulista.ifpe.edu.br",
+          "diario": "465349"
+        },
+        {
+          "turma": "20261.TGPL.3N",
+          "discipline_code": "MAT FINANC",
+          "discipline_name": "Matemática Financeira",
+          "professor_email": "camila.morais@paulista.ifpe.edu.br",
+          "diario": "459279"
+        }
+      ]
+    },
+    "carlos alberto domingues do nascimento": {
+      "professor": "Carlos Alberto Domingues do Nascimento",
+      "email": "carlos.nascimento@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.2V",
+          "discipline_code": "PSI. ORG.",
+          "discipline_name": "Psicologia Organizacional e Relações Humanas",
+          "professor_email": "carlos.nascimento@paulista.ifpe.edu.br",
+          "diario": "459328"
+        },
+        {
+          "turma": "20261.TGPL.3N",
+          "discipline_code": "PSICOLOGIA",
+          "discipline_name": "Psicologia Organizacional",
+          "professor_email": "carlos.nascimento@paulista.ifpe.edu.br",
+          "diario": "459281"
+        }
+      ]
+    },
+    "carlos gustavo paiva rodrigues": {
+      "professor": "Carlos Gustavo Paiva Rodrigues",
+      "email": "gustavo.paiva@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.1V",
+          "discipline_code": "ESTATÍSTIC",
+          "discipline_name": "Estatística Básica",
+          "professor_email": "gustavo.paiva@paulista.ifpe.edu.br",
+          "diario": "459313"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "CONT GEREN",
+          "discipline_name": "Contabilidade Gerencial e de Custos",
+          "professor_email": "gustavo.paiva@paulista.ifpe.edu.br",
+          "diario": "465337"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "GEST. FIN",
+          "discipline_name": "Gestão Financeira e Orçamentária",
+          "professor_email": "gustavo.paiva@paulista.ifpe.edu.br",
+          "diario": "465345"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "NOÇÕ CONT",
+          "discipline_name": "Noções de Contabilidade",
+          "professor_email": "gustavo.paiva@paulista.ifpe.edu.br",
+          "diario": "465373"
+        },
+        {
+          "turma": "20261.TGPL.5N",
+          "discipline_code": "NOÇAO ORÇA",
+          "discipline_name": "Noções de Orçamento Público",
+          "professor_email": "gustavo.paiva@paulista.ifpe.edu.br",
+          "diario": "459302"
+        }
+      ]
+    },
+    "eduardo valfrido da rocha": {
+      "professor": "Eduardo Valfrido da Rocha",
+      "email": "eduardo.rocha@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.1V",
+          "discipline_code": "NDLE",
+          "discipline_name": "Noções de Direito e Legislação Empresarial",
+          "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+          "diario": "459319"
+        },
+        {
+          "turma": "20261.ADPL.3V",
+          "discipline_code": "LTPT",
+          "discipline_name": "Legislação Trabalhista, Previdênciária e Tributária",
+          "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+          "diario": "459338"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "NOÇÕE DIRE",
+          "discipline_name": "Noções de Direito e Legislação Empresarial",
+          "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+          "diario": "465332"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "NOÇÕE DIRE",
+          "discipline_name": "Noções de Direito e Legislação Empresarial",
+          "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+          "diario": "465384"
+        },
+        {
+          "turma": "20261.TGPL.1N",
+          "discipline_code": "N.DIREITO",
+          "discipline_name": "Noções de Direito Administrativo",
+          "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+          "diario": "459270"
+        },
+        {
+          "turma": "20261.TGPL.3N",
+          "discipline_code": "DIREIT EMP",
+          "discipline_name": "Noções de Direito e Legislação Empresarial",
+          "professor_email": "eduardo.rocha@paulista.ifpe.edu.br",
+          "diario": "459280"
+        }
+      ]
+    },
+    "elizabeth de oliveira camelo": {
+      "professor": "Elizabeth de Oliveira Camelo",
+      "email": "elizabeth.camelo@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "INGLÊS",
+          "discipline_name": "Língua Estrangeira - Inglês I",
+          "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+          "diario": "465315"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "INGLÊS",
+          "discipline_name": "Língua Estrangeira - Inglês III",
+          "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+          "diario": "465329"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "INGLÊS",
+          "discipline_name": "Língua Estrangeira - Inglês IV",
+          "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+          "diario": "465347"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "INGLÊS",
+          "discipline_name": "Língua Estrangeira - Inglês I",
+          "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+          "diario": "463733"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "INGLÊS",
+          "discipline_name": "Língua Estrangeira - Inglês III",
+          "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+          "diario": "463791"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "INGLÊS",
+          "discipline_name": "Língua Estrangeira - Inglês IV",
+          "professor_email": "elizabeth.camelo@paulista.ifpe.edu.br",
+          "diario": "464764"
+        }
+      ]
+    },
+    "flavio rosendo da silva oliveira": {
+      "professor": "Flávio Rosendo da Silva Oliveira",
+      "email": "flavio.oliveira@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADSPL.3M",
+          "discipline_code": "INT ARTIF",
+          "discipline_name": "Inteligência Artificial",
+          "professor_email": "flavio.oliveira@paulista.ifpe.edu.br",
+          "diario": "459238"
+        },
+        {
+          "turma": "20261.ADSPL.4M",
+          "discipline_code": "MET CIE AP",
+          "discipline_name": "Metodologia Científica Aplicada",
+          "professor_email": "flavio.oliveira@paulista.ifpe.edu.br",
+          "diario": "459241"
+        },
+        {
+          "turma": "20261.ADSPL.5M",
+          "discipline_code": "MIN DADOS",
+          "discipline_name": "Mineração de Dados",
+          "professor_email": "flavio.oliveira@paulista.ifpe.edu.br",
+          "diario": "459249"
+        }
+      ]
+    },
+    "gleide de lima ferreira": {
+      "professor": "Gleide de Lima Ferreira",
+      "email": "gleide.ferreira@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "GEOGRAFIA",
+          "discipline_name": "Geografia II",
+          "professor_email": "gleide.ferreira@paulista.ifpe.edu.br",
+          "diario": "465325"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "GEOGRAFIA",
+          "discipline_name": "Geografia IV",
+          "professor_email": "gleide.ferreira@paulista.ifpe.edu.br",
+          "diario": "465342"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "GEOGRAFIA",
+          "discipline_name": "Geografia II",
+          "professor_email": "gleide.ferreira@paulista.ifpe.edu.br",
+          "diario": "463788"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "GEOGRAFIA",
+          "discipline_name": "Geografia IV",
+          "professor_email": "gleide.ferreira@paulista.ifpe.edu.br",
+          "diario": "464760"
+        }
+      ]
+    },
+    "ivanildo jose de melo filho": {
+      "professor": "Ivanildo José de Melo Filho",
+      "email": "ivanildo.melo@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "ARQT. COMP",
+          "discipline_name": "Arquitetura de Computadores",
+          "professor_email": "ivanildo.melo@paulista.ifpe.edu.br",
+          "diario": "463724"
+        }
+      ]
+    },
+    "jessica sabrina de oliveira menezes": {
+      "professor": "Jessica Sabrina de Oliveira Menezes",
+      "email": "jessica.oliveira@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "LÍNGUA POR",
+          "discipline_name": "Língua Portuguesa I",
+          "professor_email": "jessica.oliveira@paulista.ifpe.edu.br",
+          "diario": "465316"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "LÍNGUA POR",
+          "discipline_name": "Língua Portuguesa V",
+          "professor_email": "jessica.oliveira@paulista.ifpe.edu.br",
+          "diario": "465348"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "LÍNGUA POR",
+          "discipline_name": "Língua Portuguesa V",
+          "professor_email": "jessica.oliveira@paulista.ifpe.edu.br",
+          "diario": "464765"
+        }
+      ]
+    },
+    "joannes emmanuel dantas e rodrigues de lima": {
+      "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
+      "email": "",
+      "items": [
+        {
+          "turma": "20261.ADPL.1V",
+          "discipline_code": "INTADM",
+          "discipline_name": "Introdução à Administração",
+          "professor_email": "",
+          "diario": "459317"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "GEST. MATE",
+          "discipline_name": "Gestão de Materiais, Estoque e Compras",
+          "professor_email": "",
+          "diario": "465326"
+        },
+        {
+          "turma": "20261.TGPL.4N",
+          "discipline_code": "ESTÁGIO SU",
+          "discipline_name": "Estágio Curricular Supervisionado",
+          "professor_email": "",
+          "diario": "459285"
+        },
+        {
+          "turma": "20261.TGPL.4N",
+          "discipline_code": "PROC DECIS",
+          "discipline_name": "Processo Decisório",
+          "professor_email": "",
+          "diario": "459291"
+        },
+        {
+          "turma": "20261.TGPL.5N",
+          "discipline_code": "G. PESSOA",
+          "discipline_name": "Gestão de Pessoa",
+          "professor_email": "",
+          "diario": "459298"
+        },
+        {
+          "turma": "20261.TGPL.6N",
+          "discipline_code": "DIAG EMPRE",
+          "discipline_name": "Diagnóstico e Consultoria Empresarial",
+          "professor_email": "",
+          "diario": "459305"
+        }
+      ]
+    },
+    "joao bosco de souza": {
+      "professor": "João Bosco de Souza",
+      "email": "joao.souza@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.2V",
+          "discipline_code": "NCONT",
+          "discipline_name": "Noções de Contabilidade",
+          "professor_email": "joao.souza@paulista.ifpe.edu.br",
+          "diario": "459326"
+        },
+        {
+          "turma": "20261.ADPL.3V",
+          "discipline_code": "CONTGCUST",
+          "discipline_name": "Contabilidade Gerencial e de Custos",
+          "professor_email": "joao.souza@paulista.ifpe.edu.br",
+          "diario": "459331"
+        },
+        {
+          "turma": "20261.TGPL.1N",
+          "discipline_code": "I.CONTABIL",
+          "discipline_name": "Introdução à Contabilidade",
+          "professor_email": "joao.souza@paulista.ifpe.edu.br",
+          "diario": "459267"
+        },
+        {
+          "turma": "20261.TGPL.4N",
+          "discipline_code": "CUSTOS",
+          "discipline_name": "Gestão de Custos",
+          "professor_email": "joao.souza@paulista.ifpe.edu.br",
+          "diario": "459287"
+        },
+        {
+          "turma": "20261.TGPL.4N",
+          "discipline_code": "VIAB ECONM",
+          "discipline_name": "Viabilidade Econômico- Financeira",
+          "professor_email": "joao.souza@paulista.ifpe.edu.br",
+          "diario": "459293"
+        }
+      ]
+    },
+    "lucas ollyver goncalves barbosa": {
+      "professor": "Lucas Ollyver Gonçalves Barbosa",
+      "email": "lucas.ollyver@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.1V",
+          "discipline_code": "ÉTICA PROF",
+          "discipline_name": "Ética Profissional",
+          "professor_email": "lucas.ollyver@paulista.ifpe.edu.br",
+          "diario": "459314"
+        },
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "FILOSOFIA",
+          "discipline_name": "Filosofia I",
+          "professor_email": "lucas.ollyver@paulista.ifpe.edu.br",
+          "diario": "465310"
+        },
+        {
+          "turma": "20261.TGPL.2N",
+          "discipline_code": "ÉTICA",
+          "discipline_name": "Ética",
+          "professor_email": "lucas.ollyver@paulista.ifpe.edu.br",
+          "diario": "459273"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "FILOSOFIA",
+          "discipline_name": "Filosofia I",
+          "professor_email": "lucas.ollyver@paulista.ifpe.edu.br",
+          "diario": "463728"
+        }
+      ]
+    },
+    "luciana de lavor nunes": {
+      "professor": "Luciana de Lavôr Nunes",
+      "email": "luciana.lavor@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.1V",
+          "discipline_code": "POR INST",
+          "discipline_name": "Português Instrumental",
+          "professor_email": "luciana.lavor@paulista.ifpe.edu.br",
+          "diario": "459321"
+        },
+        {
+          "turma": "20261.ADPL.2V",
+          "discipline_code": "INGINST",
+          "discipline_name": "Inglês Instrumental",
+          "professor_email": "luciana.lavor@paulista.ifpe.edu.br",
+          "diario": "459325"
+        },
+        {
+          "turma": "20261.ADSPL.1M",
+          "discipline_code": "L. ING APL",
+          "discipline_name": "Lingua Inglesa Aplicada",
+          "professor_email": "luciana.lavor@paulista.ifpe.edu.br",
+          "diario": "459207"
+        },
+        {
+          "turma": "20261.TGPL.2N",
+          "discipline_code": "COM EMPRES",
+          "discipline_name": "Produção Textual e Comunicação Empresarial",
+          "professor_email": "luciana.lavor@paulista.ifpe.edu.br",
+          "diario": "459277"
+        }
+      ]
+    },
+    "luciano fernandes acioli cabral e silva": {
+      "professor": "Luciano Fernandes Acioli Cabral e Silva",
+      "email": "luciano.acioli@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.2V",
+          "discipline_code": "T SISTEMA",
+          "discipline_name": "Tecnologia e Sistemas de Informação Gerencial",
+          "professor_email": "luciano.acioli@paulista.ifpe.edu.br",
+          "diario": "459330"
+        },
+        {
+          "turma": "20261.TGPL.3N",
+          "discipline_code": "INFORMAÇÃO",
+          "discipline_name": "Sistema de Informação Gerancial",
+          "professor_email": "luciano.acioli@paulista.ifpe.edu.br",
+          "diario": "459283"
+        },
+        {
+          "turma": "20261.TGPL.5N",
+          "discipline_code": "PROJ INT2",
+          "discipline_name": "Projeto Integrador II",
+          "professor_email": "luciano.acioli@paulista.ifpe.edu.br",
+          "diario": "459303"
+        },
+        {
+          "turma": "20261.TGPL.6N",
+          "discipline_code": "PROD PROJ",
+          "discipline_name": "Gestão da Produção e Projetos",
+          "professor_email": "luciano.acioli@paulista.ifpe.edu.br",
+          "diario": "459308"
+        }
+      ]
+    },
+    "luiz guimaraes ribeiro neto": {
+      "professor": "Luiz Guimarães Ribeiro Neto",
+      "email": "luiz.ribeiro@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.2V",
+          "discipline_code": "GMEC",
+          "discipline_name": "Gestão de Materiais, Estoque e Compras",
+          "professor_email": "luiz.ribeiro@paulista.ifpe.edu.br",
+          "diario": "459322"
+        },
+        {
+          "turma": "20261.ADPL.3V",
+          "discipline_code": "GPPROD",
+          "discipline_name": "Gestão de Processos Produtivos",
+          "professor_email": "luiz.ribeiro@paulista.ifpe.edu.br",
+          "diario": "459336"
+        },
+        {
+          "turma": "20261.TGPL.4N",
+          "discipline_code": "F.G.QUALID",
+          "discipline_name": "Fundamentos da Gestão da Qualidade",
+          "professor_email": "luiz.ribeiro@paulista.ifpe.edu.br",
+          "diario": "459286"
+        },
+        {
+          "turma": "20261.TGPL.4N",
+          "discipline_code": "G. LOGÍSTI",
+          "discipline_name": "Gestão de Materias e Logística",
+          "professor_email": "luiz.ribeiro@paulista.ifpe.edu.br",
+          "diario": "459288"
+        },
+        {
+          "turma": "20261.TGPL.5N",
+          "discipline_code": "G F ORÇAM1",
+          "discipline_name": "Gestão Financeira e Orçamentária I",
+          "professor_email": "luiz.ribeiro@paulista.ifpe.edu.br",
+          "diario": "459299"
+        }
+      ]
+    },
+    "lutemberg francisco de andrade santana": {
+      "professor": "Lutemberg francisco de Andrade Santana",
+      "email": "lutemberg.santana@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.1V",
+          "discipline_code": "NOCECON",
+          "discipline_name": "Noções de Economia",
+          "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+          "diario": "459320"
+        },
+        {
+          "turma": "20261.ADPL.3V",
+          "discipline_code": "ECON MERCA",
+          "discipline_name": "Economia e Mercado",
+          "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+          "diario": "459332"
+        },
+        {
+          "turma": "20261.ADSPL.2N",
+          "discipline_code": "ESTAT APLI",
+          "discipline_name": "Estatística Aplicada",
+          "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+          "diario": "459231"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "ECON. MERC",
+          "discipline_name": "Economia e Mercado",
+          "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+          "diario": "465338"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "NOÇÕE ECON",
+          "discipline_name": "Noções de Economia",
+          "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+          "diario": "465383"
+        },
+        {
+          "turma": "20261.TGPL.1N",
+          "discipline_code": "INT.ECONOM",
+          "discipline_name": "Introdução à Economia",
+          "professor_email": "lutemberg.santana@paulista.ifpe.edu.br",
+          "diario": "459268"
+        }
+      ]
+    },
+    "marcelino jose caetano": {
+      "professor": "Marcelino Jose Caetano",
+      "email": "marcelino.caetano@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.3V",
+          "discipline_code": "G.F. ORÇAM",
+          "discipline_name": "Gestão Financeira e Orçamentária",
+          "professor_email": "marcelino.caetano@paulista.ifpe.edu.br",
+          "diario": "459337"
+        },
+        {
+          "turma": "20261.ADSPL.6M",
+          "discipline_code": "GER PROJET",
+          "discipline_name": "Gerenciamentos de Projetos",
+          "professor_email": "marcelino.caetano@paulista.ifpe.edu.br",
+          "diario": "459263"
+        },
+        {
+          "turma": "20261.TGPL.6N",
+          "discipline_code": "G.ORÇAM 2",
+          "discipline_name": "Gestão Financeira e Orçamentária II",
+          "professor_email": "marcelino.caetano@paulista.ifpe.edu.br",
+          "diario": "459311"
+        }
+      ]
+    },
+    "marcelo alexandre vilela da silva": {
+      "professor": "MARCELO ALEXANDRE VILELA DA SILVA",
+      "email": "marcelo.vilela@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.2V",
+          "discipline_code": "SEG S.TRAB",
+          "discipline_name": "Segurança e Saúde no Trabalho",
+          "professor_email": "marcelo.vilela@paulista.ifpe.edu.br",
+          "diario": "459329"
+        },
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "SEGSATRAB",
+          "discipline_name": "Segurança e Saúde no Trabalho",
+          "professor_email": "marcelo.vilela@paulista.ifpe.edu.br",
+          "diario": "465319"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "SEGSATRAB",
+          "discipline_name": "Segurança e Saúde no Trabalho",
+          "professor_email": "marcelo.vilela@paulista.ifpe.edu.br",
+          "diario": "465355"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "SEAMSA",
+          "discipline_name": "Segurança, Meio Ambiente e Saúde",
+          "professor_email": "marcelo.vilela@paulista.ifpe.edu.br",
+          "diario": "464768"
+        }
+      ]
+    },
+    "marconi carvalho de queiroz": {
+      "professor": "Marconi Carvalho de Queiroz",
+      "email": "marconi.queiroz@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "INT SEG I.",
+          "discipline_name": "Introdução à Segurança da Informação",
+          "professor_email": "marconi.queiroz@paulista.ifpe.edu.br",
+          "diario": "463790"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "SIST. OPER",
+          "discipline_name": "Sistemas Operacionais",
+          "professor_email": "marconi.queiroz@paulista.ifpe.edu.br",
+          "diario": "463795"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "I SIS EMBA",
+          "discipline_name": "Introdução à Sistemas Embarcados",
+          "professor_email": "marconi.queiroz@paulista.ifpe.edu.br",
+          "diario": "464763"
+        }
+      ]
+    },
+    "marcos amaral ferrante": {
+      "professor": "Marcos Amaral Ferrante",
+      "email": "marcos.ferrante@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "HISTÓRIA",
+          "discipline_name": "História I",
+          "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+          "diario": "465312"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "HISTÓRIA",
+          "discipline_name": "História III",
+          "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+          "diario": "465328"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "HISTÓRIA",
+          "discipline_name": "História V",
+          "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+          "diario": "465346"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "HISTÓRIA",
+          "discipline_name": "História I",
+          "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+          "diario": "463730"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "HISTÓRIA",
+          "discipline_name": "História III",
+          "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+          "diario": "463789"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "HISTÓRIA",
+          "discipline_name": "História V",
+          "professor_email": "marcos.ferrante@paulista.ifpe.edu.br",
+          "diario": "464761"
+        }
+      ]
+    },
+    "marinaldo lourenco da silva souza": {
+      "professor": "Marinaldo Lourenço da Silva Souza",
+      "email": "marinaldo.souza@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "ARTE I",
+          "discipline_name": "Arte I",
+          "professor_email": "marinaldo.souza@paulista.ifpe.edu.br",
+          "diario": "465307"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "ARTE I",
+          "discipline_name": "Arte I",
+          "professor_email": "marinaldo.souza@paulista.ifpe.edu.br",
+          "diario": "463725"
+        }
+      ]
+    },
+    "mario gomes de melo": {
+      "professor": "Mário Gomes de Melo",
+      "email": "mario.melo@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADSPL.2N",
+          "discipline_code": "BANC DAD I",
+          "discipline_name": "Banco de Dados I",
+          "professor_email": "mario.melo@paulista.ifpe.edu.br",
+          "diario": "459229"
+        },
+        {
+          "turma": "20261.ADSPL.2N",
+          "discipline_code": "ENG SOFT",
+          "discipline_name": "Engenharia de Software",
+          "professor_email": "mario.melo@paulista.ifpe.edu.br",
+          "diario": "459230"
+        },
+        {
+          "turma": "20261.ADSPL.3M",
+          "discipline_code": "DES WEB I",
+          "discipline_name": "Desenvolvimento de Sistemas Web I",
+          "professor_email": "mario.melo@paulista.ifpe.edu.br",
+          "diario": "459237"
+        },
+        {
+          "turma": "20261.ADSPL.5M",
+          "discipline_code": "P. D. SIST",
+          "discipline_name": "Projeto de Desenvolvimento de Sistemas Web",
+          "professor_email": "mario.melo@paulista.ifpe.edu.br",
+          "diario": "459253"
+        }
+      ]
+    },
+    "mercio antonio oliveira de andrade": {
+      "professor": "Mercio Antonio Oliveira de Andrade",
+      "email": "mercio.andrade@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADSPL.1M",
+          "discipline_code": "INIC INFO",
+          "discipline_name": "Iniciação à Informática",
+          "professor_email": "mercio.andrade@paulista.ifpe.edu.br",
+          "diario": "459205"
+        },
+        {
+          "turma": "20261.ADSPL.4M",
+          "discipline_code": "SIST OPERA",
+          "discipline_name": "Sistemas Operacionais",
+          "professor_email": "mercio.andrade@paulista.ifpe.edu.br",
+          "diario": "459243"
+        },
+        {
+          "turma": "20261.ADSPL.5M",
+          "discipline_code": "T. ESP EMB",
+          "discipline_name": "Tópicos Especiais em Sistemas Embarcados",
+          "professor_email": "mercio.andrade@paulista.ifpe.edu.br",
+          "diario": "459261"
+        },
+        {
+          "turma": "20261.ADSPL.6M",
+          "discipline_code": "T. ESP ELE",
+          "discipline_name": "Tópicos Especiais em Eletrônica",
+          "professor_email": "mercio.andrade@paulista.ifpe.edu.br",
+          "diario": "459257"
+        }
+      ]
+    },
+    "paava de barros de alencar carvalho": {
+      "professor": "Paava de Barros de Alencar Carvalho",
+      "email": "paava.carvalho@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.3V",
+          "discipline_code": "EMPREEND",
+          "discipline_name": "Empreendedorismo",
+          "professor_email": "paava.carvalho@paulista.ifpe.edu.br",
+          "diario": "459333"
+        },
+        {
+          "turma": "20261.TGPL.4N",
+          "discipline_code": "PROJ. INT1",
+          "discipline_name": "Projeto Integrador I",
+          "professor_email": "paava.carvalho@paulista.ifpe.edu.br",
+          "diario": "459292"
+        },
+        {
+          "turma": "20261.TGPL.5N",
+          "discipline_code": "G.MARKTING",
+          "discipline_name": "Gestão de Marketing",
+          "professor_email": "paava.carvalho@paulista.ifpe.edu.br",
+          "diario": "459297"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "EMPREENDED",
+          "discipline_name": "Empreendedorismo",
+          "professor_email": "paava.carvalho@paulista.ifpe.edu.br",
+          "diario": "464757"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "INTRO PESQ",
+          "discipline_name": "Introdução à Pesquisa",
+          "professor_email": "paava.carvalho@paulista.ifpe.edu.br",
+          "diario": "464762"
+        }
+      ]
+    },
+    "paulo roger gomes cordeiro": {
+      "professor": "Paulo Roger Gomes Cordeiro",
+      "email": "",
+      "items": [
+        {
+          "turma": "20261.ADSPL.1M",
+          "discipline_code": "INT PROG",
+          "discipline_name": "Introdução à Programação",
+          "professor_email": "",
+          "diario": "459206"
+        },
+        {
+          "turma": "20261.ADSPL.6M",
+          "discipline_code": "SEG INFORM",
+          "discipline_name": "Segurança da Informação",
+          "professor_email": "",
+          "diario": "459265"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "INTRO PROG",
+          "discipline_name": "Introdução à Programação",
+          "professor_email": "",
+          "diario": "463732"
+        }
+      ]
+    },
+    "rafael jose dos santos": {
+      "professor": "Rafael José dos Santos",
+      "email": "rafael.santos@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "QUÍMICA",
+          "discipline_name": "Química I",
+          "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+          "diario": "465318"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "QUÍMICA",
+          "discipline_name": "Química III",
+          "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+          "diario": "465334"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "QUÍMICA",
+          "discipline_name": "Química V",
+          "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+          "diario": "465350"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "QUÍMICA",
+          "discipline_name": "Química I",
+          "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+          "diario": "463737"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "QUÍMICA",
+          "discipline_name": "Química III",
+          "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+          "diario": "463794"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "QUÍMICA",
+          "discipline_name": "Química V",
+          "professor_email": "rafael.santos@paulista.ifpe.edu.br",
+          "diario": "464767"
+        }
+      ]
+    },
+    "rodrigo cesar lira da silva": {
+      "professor": "Rodrigo Cesar Lira da Silva",
+      "email": "rodrigo.lira@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADSPL.4M",
+          "discipline_code": "DES WEB II",
+          "discipline_name": "Desenvolvimento Sistemas Web II",
+          "professor_email": "rodrigo.lira@paulista.ifpe.edu.br",
+          "diario": "459240"
+        },
+        {
+          "turma": "20261.ADSPL.5M",
+          "discipline_code": "INT TCC",
+          "discipline_name": "Introdução Ao Trabalho de Conclusão de Curso",
+          "professor_email": "rodrigo.lira@paulista.ifpe.edu.br",
+          "diario": "459246"
+        },
+        {
+          "turma": "20261.ADSPL.5M",
+          "discipline_code": "T. ESP I.A",
+          "discipline_name": "Tópicos Especiais em Inteligência Artificial",
+          "professor_email": "rodrigo.lira@paulista.ifpe.edu.br",
+          "diario": "459259"
+        }
+      ]
+    },
+    "rodrigo da rocha borges de santana": {
+      "professor": "Rodrigo da Rocha Borges de Santana",
+      "email": "rodrigo.rocha@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADSPL.3M",
+          "discipline_code": "BAN DAD II",
+          "discipline_name": "Banco de Dados II",
+          "professor_email": "rodrigo.rocha@paulista.ifpe.edu.br",
+          "diario": "459236"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "BANC DADOS",
+          "discipline_name": "Banco da Dados I",
+          "professor_email": "rodrigo.rocha@paulista.ifpe.edu.br",
+          "diario": "463782"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "DESENV WEB",
+          "discipline_name": "Desenvolvimento de Sistemas Web I",
+          "professor_email": "rodrigo.rocha@paulista.ifpe.edu.br",
+          "diario": "463784"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "DES SIS WE",
+          "discipline_name": "Desenvolvimento de Sistemas Web III",
+          "professor_email": "rodrigo.rocha@paulista.ifpe.edu.br",
+          "diario": "464755"
+        }
+      ]
+    },
+    "rosangela maria de melo": {
+      "professor": "Rosangela Maria de Melo",
+      "email": "rosangela.melo@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.1V",
+          "discipline_code": "INFORMÁTIC",
+          "discipline_name": "Informática Básica",
+          "professor_email": "rosangela.melo@paulista.ifpe.edu.br",
+          "diario": "459316"
+        },
+        {
+          "turma": "20261.TAD-PL.1M",
+          "discipline_code": "INFBAS",
+          "discipline_name": "Informática Básica",
+          "professor_email": "rosangela.melo@paulista.ifpe.edu.br",
+          "diario": "465313"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "INFBAS",
+          "discipline_name": "Informática Básica",
+          "professor_email": "rosangela.melo@paulista.ifpe.edu.br",
+          "diario": "465354"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "INF. BASIC",
+          "discipline_name": "Informática Básica",
+          "professor_email": "rosangela.melo@paulista.ifpe.edu.br",
+          "diario": "463731"
+        }
+      ]
+    },
+    "rosecleide ramos ferreira": {
+      "professor": "Rosecleide Ramos Ferreira",
+      "email": "rose.ferreira@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.3V",
+          "discipline_code": "MARKETING",
+          "discipline_name": "Gestão de Marketing",
+          "professor_email": "rose.ferreira@paulista.ifpe.edu.br",
+          "diario": "459334"
+        },
+        {
+          "turma": "20261.ADSPL.1M",
+          "discipline_code": "EMP TIC",
+          "discipline_name": "Empreendedorismo em Négocios de Tic",
+          "professor_email": "rose.ferreira@paulista.ifpe.edu.br",
+          "diario": "459203"
+        },
+        {
+          "turma": "20261.TAD-PL.5M",
+          "discipline_code": "GEST QUALI",
+          "discipline_name": "Gestão da Qualidade de Produtos e Serviços",
+          "professor_email": "rose.ferreira@paulista.ifpe.edu.br",
+          "diario": "465343"
+        },
+        {
+          "turma": "20261.TGPL.6N",
+          "discipline_code": "EMPREENDED",
+          "discipline_name": "Empreendedorismo e Gestão de Micro e Pequenas",
+          "professor_email": "rose.ferreira@paulista.ifpe.edu.br",
+          "diario": "459307"
+        }
+      ]
+    },
+    "saulo emmanuel rocha de medeiros": {
+      "professor": "SAULO EMMANUEL ROCHA DE MEDEIROS",
+      "email": "saulo.medeiros@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADPL.2V",
+          "discipline_code": "GMPE",
+          "discipline_name": "Gestão de Micro e Pequenas Empresas",
+          "professor_email": "saulo.medeiros@paulista.ifpe.edu.br",
+          "diario": "459323"
+        },
+        {
+          "turma": "20261.ADPL.3V",
+          "discipline_code": "N LOGÍSTIC",
+          "discipline_name": "Noções de Logística",
+          "professor_email": "saulo.medeiros@paulista.ifpe.edu.br",
+          "diario": "459339"
+        },
+        {
+          "turma": "20261.TAD-PL.3M",
+          "discipline_code": "NOÇÕES LOG",
+          "discipline_name": "Noções de Logística",
+          "professor_email": "saulo.medeiros@paulista.ifpe.edu.br",
+          "diario": "465333"
+        },
+        {
+          "turma": "20261.TGPL.2N",
+          "discipline_code": "ORATÓRIA",
+          "discipline_name": "Oratória e Retórica",
+          "professor_email": "saulo.medeiros@paulista.ifpe.edu.br",
+          "diario": "459275"
+        },
+        {
+          "turma": "20261.TGPL.6N",
+          "discipline_code": "GEST SAUDE",
+          "discipline_name": "Gestão de Sistemas de Saúde",
+          "professor_email": "saulo.medeiros@paulista.ifpe.edu.br",
+          "diario": "459310"
+        }
+      ]
+    },
+    "thiago gabriel silva gameiro": {
+      "professor": "Thiago Gabriel Silva Gameiro",
+      "email": "gabriel.gameiro@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TGPL.1N",
+          "discipline_code": "SOCIOLOGIA",
+          "discipline_name": "Sociologia Aplicada à Administração",
+          "professor_email": "gabriel.gameiro@paulista.ifpe.edu.br",
+          "diario": "459271"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "SOCIOLOGIA",
+          "discipline_name": "Sociologia I",
+          "professor_email": "gabriel.gameiro@paulista.ifpe.edu.br",
+          "diario": "463797"
+        },
+        {
+          "turma": "20261.TII-PL.3M",
+          "discipline_code": "SOCIOLOGIA",
+          "discipline_name": "Sociologia II",
+          "professor_email": "gabriel.gameiro@paulista.ifpe.edu.br",
+          "diario": "463796"
+        }
+      ]
+    },
+    "wandernos de melo e silva": {
+      "professor": "Wandernos de Melo e Silva",
+      "email": "wandernos.silva@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.TGPL.1N",
+          "discipline_code": "MAT BÁS",
+          "discipline_name": "Matemática Básica",
+          "professor_email": "wandernos.silva@paulista.ifpe.edu.br",
+          "diario": "459269"
+        },
+        {
+          "turma": "20261.TGPL.2N",
+          "discipline_code": "ESTATISTIC",
+          "discipline_name": "Estatística Básica",
+          "professor_email": "wandernos.silva@paulista.ifpe.edu.br",
+          "diario": "459272"
+        },
+        {
+          "turma": "20261.TII-PL.1M",
+          "discipline_code": "MAT. APLIC",
+          "discipline_name": "Matemática Aplicada",
+          "professor_email": "wandernos.silva@paulista.ifpe.edu.br",
+          "diario": "463735"
+        },
+        {
+          "turma": "20261.TII-PL.1V",
+          "discipline_code": "MAT. APLIC",
+          "discipline_name": "Matemática Aplicada",
+          "professor_email": "wandernos.silva@paulista.ifpe.edu.br",
+          "diario": "EXTR463779"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "MATEMÁTICA",
+          "discipline_name": "Matemática V",
+          "professor_email": "wandernos.silva@paulista.ifpe.edu.br",
+          "diario": "464766"
+        }
+      ]
+    },
+    "wilbert santana dos santos": {
+      "professor": "WILBERT SANTANA DOS SANTOS",
+      "email": "wilbert.santos@paulista.ifpe.edu.br",
+      "items": [
+        {
+          "turma": "20261.ADSPL.2N",
+          "discipline_code": "ARQ COMPUT",
+          "discipline_name": "Arquitetura de Computadores",
+          "professor_email": "wilbert.santos@paulista.ifpe.edu.br",
+          "diario": "459228"
+        },
+        {
+          "turma": "20261.ADSPL.2N",
+          "discipline_code": "RED COMPT",
+          "discipline_name": "Redes de Computadores",
+          "professor_email": "wilbert.santos@paulista.ifpe.edu.br",
+          "diario": "459233"
+        },
+        {
+          "turma": "20261.TII-PL.5M",
+          "discipline_code": "INT SEG I.",
+          "discipline_name": "Introdução à Segurança da Informação",
+          "professor_email": "wilbert.santos@paulista.ifpe.edu.br",
+          "diario": "464770"
+        }
+      ]
+    }
+  }
+}
