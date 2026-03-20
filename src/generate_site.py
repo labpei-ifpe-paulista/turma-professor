@@ -440,7 +440,6 @@ def render_html(data: dict[str, Any], metadata: dict[str, Any]) -> str:
           <td>${{item.turma}}</td>
           <td>${{item.discipline_code}}</td>
           <td>${{item.discipline_name}}</td>
-          <td>${{item.professor_email ? `<a href="mailto:${{item.professor_email}}">${{item.professor_email}}</a>` : 'Não informado'}}</td>
         </tr>
       `).join('');
 
@@ -457,7 +456,6 @@ def render_html(data: dict[str, Any], metadata: dict[str, Any]) -> str:
               <th>Turma</th>
               <th>Código</th>
               <th>Disciplina</th>
-              <th>E-mail</th>
             </tr>
           </thead>
           <tbody>${{rows}}</tbody>

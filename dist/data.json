@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-20T11:49:52",
+    "generated_at": "2026-03-20T12:26:53",
     "input_file": "HORÁRIO TURMAS 2026 1.PDF",
     "total_records": 188,
     "invalid_chunks": 0,
@@ -10,7 +10,7 @@
     "total_professors": 42,
     "email_base_file": "input/professores_emails.csv",
     "professors_added_to_email_base": 0,
-    "professors_without_email": 3,
+    "professors_without_email": 0,
     "pdf_download_file": "HORÁRIO TURMAS 2026 1.PDF"
   },
   "records": [
@@ -1358,7 +1358,7 @@
         "discipline_code": "INTADM",
         "discipline_name": "Introdução à Administração",
         "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
-        "professor_email": "",
+        "professor_email": "joannes.lima@paulista.ifpe.edu.br",
         "diario": "459317"
       },
       {
@@ -1546,7 +1546,7 @@
         "discipline_code": "INT PROG",
         "discipline_name": "Introdução à Programação",
         "professor": "Paulo Roger Gomes Cordeiro",
-        "professor_email": "",
+        "professor_email": "paulo.roger@barreiros.ifpe.edu.br",
         "diario": "459206"
       },
       {
@@ -1759,7 +1759,7 @@
         "discipline_code": "SEG INFORM",
         "discipline_name": "Segurança da Informação",
         "professor": "Paulo Roger Gomes Cordeiro",
-        "professor_email": "",
+        "professor_email": "paulo.roger@barreiros.ifpe.edu.br",
         "diario": "459265"
       },
       {
@@ -1803,7 +1803,7 @@
         "discipline_code": "FÍSICA",
         "discipline_name": "Física I",
         "professor": "Alexandre Valença do Nascimento Silva",
-        "professor_email": "",
+        "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
         "diario": "465311"
       },
       {
@@ -1898,7 +1898,7 @@
         "discipline_code": "FÍSICA",
         "discipline_name": "Física III",
         "professor": "Alexandre Valença do Nascimento Silva",
-        "professor_email": "",
+        "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
         "diario": "465324"
       },
       {
@@ -1912,7 +1912,7 @@
         "discipline_code": "GEST. MATE",
         "discipline_name": "Gestão de Materiais, Estoque e Compras",
         "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
-        "professor_email": "",
+        "professor_email": "joannes.lima@paulista.ifpe.edu.br",
         "diario": "465326"
       },
       {
@@ -2012,7 +2012,7 @@
         "discipline_code": "FÍSICA",
         "discipline_name": "Física V",
         "professor": "Alexandre Valença do Nascimento Silva",
-        "professor_email": "",
+        "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
         "diario": "465341"
       },
       {
@@ -2230,7 +2230,7 @@
         "discipline_code": "ESTÁGIO SU",
         "discipline_name": "Estágio Curricular Supervisionado",
         "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
-        "professor_email": "",
+        "professor_email": "joannes.lima@paulista.ifpe.edu.br",
         "diario": "459285"
       },
       {
@@ -2265,7 +2265,7 @@
         "discipline_code": "PROC DECIS",
         "discipline_name": "Processo Decisório",
         "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
-        "professor_email": "",
+        "professor_email": "joannes.lima@paulista.ifpe.edu.br",
         "diario": "459291"
       },
       {
@@ -2309,7 +2309,7 @@
         "discipline_code": "G. PESSOA",
         "discipline_name": "Gestão de Pessoa",
         "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
-        "professor_email": "",
+        "professor_email": "joannes.lima@paulista.ifpe.edu.br",
         "diario": "459298"
       },
       {
@@ -2339,7 +2339,7 @@
         "discipline_code": "DIAG EMPRE",
         "discipline_name": "Diagnóstico e Consultoria Empresarial",
         "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
-        "professor_email": "",
+        "professor_email": "joannes.lima@paulista.ifpe.edu.br",
         "diario": "459305"
       },
       {
@@ -2411,7 +2411,7 @@
         "discipline_code": "FÍSICA",
         "discipline_name": "Física I",
         "professor": "Alexandre Valença do Nascimento Silva",
-        "professor_email": "",
+        "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
         "diario": "463729"
       },
       {
@@ -2432,7 +2432,7 @@
         "discipline_code": "INTRO PROG",
         "discipline_name": "Introdução à Programação",
         "professor": "Paulo Roger Gomes Cordeiro",
-        "professor_email": "",
+        "professor_email": "paulo.roger@barreiros.ifpe.edu.br",
         "diario": "463732"
       },
       {
@@ -2513,7 +2513,7 @@
         "discipline_code": "FÍSICA",
         "discipline_name": "Física III",
         "professor": "Alexandre Valença do Nascimento Silva",
-        "professor_email": "",
+        "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
         "diario": "463787"
       },
       {
@@ -2620,7 +2620,7 @@
         "discipline_code": "FÍSICA",
         "discipline_name": "Física V",
         "professor": "Alexandre Valença do Nascimento Silva",
-        "professor_email": "",
+        "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
         "diario": "464759"
       },
       {
@@ -2787,48 +2787,48 @@
     },
     "alexandre valenca do nascimento silva": {
       "professor": "Alexandre Valença do Nascimento Silva",
-      "email": "",
+      "email": "alexandre.nascimento@paulista.ifpe.edu.br",
       "items": [
         {
           "turma": "20261.TAD-PL.1M",
           "discipline_code": "FÍSICA",
           "discipline_name": "Física I",
-          "professor_email": "",
+          "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
           "diario": "465311"
         },
         {
           "turma": "20261.TAD-PL.3M",
           "discipline_code": "FÍSICA",
           "discipline_name": "Física III",
-          "professor_email": "",
+          "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
           "diario": "465324"
         },
         {
           "turma": "20261.TAD-PL.5M",
           "discipline_code": "FÍSICA",
           "discipline_name": "Física V",
-          "professor_email": "",
+          "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
           "diario": "465341"
         },
         {
           "turma": "20261.TII-PL.1M",
           "discipline_code": "FÍSICA",
           "discipline_name": "Física I",
-          "professor_email": "",
+          "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
           "diario": "463729"
         },
         {
           "turma": "20261.TII-PL.3M",
           "discipline_code": "FÍSICA",
           "discipline_name": "Física III",
-          "professor_email": "",
+          "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
           "diario": "463787"
         },
         {
           "turma": "20261.TII-PL.5M",
           "discipline_code": "FÍSICA",
           "discipline_name": "Física V",
-          "professor_email": "",
+          "professor_email": "alexandre.nascimento@paulista.ifpe.edu.br",
           "diario": "464759"
         }
       ]
@@ -3297,48 +3297,48 @@
     },
     "joannes emmanuel dantas e rodrigues de lima": {
       "professor": "Joannes Emmanuel Dantas e Rodrigues de Lima",
-      "email": "",
+      "email": "joannes.lima@paulista.ifpe.edu.br",
       "items": [
         {
           "turma": "20261.ADPL.1V",
           "discipline_code": "INTADM",
           "discipline_name": "Introdução à Administração",
-          "professor_email": "",
+          "professor_email": "joannes.lima@paulista.ifpe.edu.br",
           "diario": "459317"
         },
         {
           "turma": "20261.TAD-PL.3M",
           "discipline_code": "GEST. MATE",
           "discipline_name": "Gestão de Materiais, Estoque e Compras",
-          "professor_email": "",
+          "professor_email": "joannes.lima@paulista.ifpe.edu.br",
           "diario": "465326"
         },
         {
           "turma": "20261.TGPL.4N",
           "discipline_code": "ESTÁGIO SU",
           "discipline_name": "Estágio Curricular Supervisionado",
-          "professor_email": "",
+          "professor_email": "joannes.lima@paulista.ifpe.edu.br",
           "diario": "459285"
         },
         {
           "turma": "20261.TGPL.4N",
           "discipline_code": "PROC DECIS",
           "discipline_name": "Processo Decisório",
-          "professor_email": "",
+          "professor_email": "joannes.lima@paulista.ifpe.edu.br",
           "diario": "459291"
         },
         {
           "turma": "20261.TGPL.5N",
           "discipline_code": "G. PESSOA",
           "discipline_name": "Gestão de Pessoa",
-          "professor_email": "",
+          "professor_email": "joannes.lima@paulista.ifpe.edu.br",
           "diario": "459298"
         },
         {
           "turma": "20261.TGPL.6N",
           "discipline_code": "DIAG EMPRE",
           "discipline_name": "Diagnóstico e Consultoria Empresarial",
-          "professor_email": "",
+          "professor_email": "joannes.lima@paulista.ifpe.edu.br",
           "diario": "459305"
         }
       ]
@@ -3842,27 +3842,27 @@
     },
     "paulo roger gomes cordeiro": {
       "professor": "Paulo Roger Gomes Cordeiro",
-      "email": "",
+      "email": "paulo.roger@barreiros.ifpe.edu.br",
       "items": [
         {
           "turma": "20261.ADSPL.1M",
           "discipline_code": "INT PROG",
           "discipline_name": "Introdução à Programação",
-          "professor_email": "",
+          "professor_email": "paulo.roger@barreiros.ifpe.edu.br",
           "diario": "459206"
         },
         {
           "turma": "20261.ADSPL.6M",
           "discipline_code": "SEG INFORM",
           "discipline_name": "Segurança da Informação",
-          "professor_email": "",
+          "professor_email": "paulo.roger@barreiros.ifpe.edu.br",
           "diario": "459265"
         },
         {
           "turma": "20261.TII-PL.1M",
           "discipline_code": "INTRO PROG",
           "discipline_name": "Introdução à Programação",
-          "professor_email": "",
+          "professor_email": "paulo.roger@barreiros.ifpe.edu.br",
           "diario": "463732"
         }
       ]
