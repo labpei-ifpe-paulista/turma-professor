@@ -137,6 +137,14 @@ python src/run_local_server.py --output "dist" --skip-generate
 - `dist/index.html`
 - `dist/data.json`
 
+## Estrutura de saída (GitHub Pages)
+
+A geração publica os arquivos em 3 locais:
+
+- Raiz do projeto: `index.html`, `data.json` e o PDF processado.
+- Pasta `dist/`: `index.html`, `data.json` e o PDF processado.
+- Cópia versionada em `dist/<nome do PDF sem extensão>/` (ex.: `dist/HORÁRIO TURMAS 2026 1/`) com o mesmo conteúdo gerado.
+
 ## Observações
 
 - O parser foi preparado para pequenas variações do PDF entre semestres.

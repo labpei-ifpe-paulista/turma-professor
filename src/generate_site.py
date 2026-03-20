@@ -299,6 +299,7 @@ def render_html(data: dict[str, Any], metadata: dict[str, Any]) -> str:
     input {{ padding: 8px; min-width: 320px; }}
     button {{ margin-left: 8px; padding: 8px 12px; cursor: pointer; }}
     .result {{ margin-top: 12px; }}
+    .actions {{ margin-top: 10px; display: flex; gap: 8px; align-items: center; }}
     table {{ border-collapse: collapse; width: 100%; margin-top: 8px; }}
     th, td {{ border: 1px solid #ddd; padding: 8px; text-align: left; }}
     th {{ background: #f4f4f4; }}
@@ -318,6 +319,10 @@ def render_html(data: dict[str, Any], metadata: dict[str, Any]) -> str:
     <input id=\"turmaInput\" list=\"turmasList\" placeholder=\"Ex.: 20261.ADPL.3V\" />
     <datalist id=\"turmasList\"></datalist>
     <button id=\"searchTurma\">Buscar</button>
+    <div class=\"actions\">
+        <button id=\"copyTurmaEmails\" type=\"button\">Copiar e-mails da turma</button>
+      <span id=\"copyTurmaEmailsStatus\" class=\"empty\"></span>
+    </div>
     <div id=\"resultTurma\" class=\"result\"></div>
   </section>
 
@@ -338,6 +343,8 @@ def render_html(data: dict[str, Any], metadata: dict[str, Any]) -> str:
     const profInput = document.getElementById('profInput');
     const resultTurma = document.getElementById('resultTurma');
     const resultProf = document.getElementById('resultProf');
+    const copyTurmaEmailsButton = document.getElementById('copyTurmaEmails');
+    const copyTurmaEmailsStatus = document.getElementById('copyTurmaEmailsStatus');
 
     document.getElementById('meta').textContent =
       `Gerado em ${{META.generated_at}} • Registros: ${{META.total_records}} • PDF: ${{META.input_file}}`;
@@ -375,6 +382,31 @@ def render_html(data: dict[str, Any], metadata: dict[str, Any]) -> str:
 
     function renderEmpty(target, message) {{
       target.innerHTML = `<p class=\"empty\">${{message}}</p>`;
+    }}
+
+    function emailsFromTurma(turma) {{
+      const items = DATA.by_turma[turma] || [];
+      const emails = items
+        .map(item => (item.professor_email || '').trim())
+        .filter(email => email.length > 0);
+      return Array.from(new Set(emails));
+    }}
+
+    async function copyText(text) {{
+      if (navigator.clipboard && navigator.clipboard.writeText) {{
+        await navigator.clipboard.writeText(text);
+        return;
+      }}
+
+      const textarea = document.createElement('textarea');
+      textarea.value = text;
+      textarea.setAttribute('readonly', '');
+      textarea.style.position = 'absolute';
+      textarea.style.left = '-9999px';
+      document.body.appendChild(textarea);
+      textarea.select();
+      document.execCommand('copy');
+      document.body.removeChild(textarea);
     }}
 
     function renderTurmaResults(items) {{
@@ -516,9 +548,21 @@ def generate(
     }
 
     output_dir.mkdir(parents=True, exist_ok=True)
+    root_output_dir = Path.cwd()
+    versioned_output_dir = output_dir / input_pdf.stem
+    versioned_output_dir.mkdir(parents=True, exist_ok=True)
+
     data_path = output_dir / "data.json"
     html_path = output_dir / "index.html"
     pdf_copy_path = output_dir / input_pdf.name
+
+    root_data_path = root_output_dir / "data.json"
+    root_html_path = root_output_dir / "index.html"
+    root_pdf_copy_path = root_output_dir / input_pdf.name
+
+    versioned_data_path = versioned_output_dir / "data.json"
+    versioned_html_path = versioned_output_dir / "index.html"
+    versioned_pdf_copy_path = versioned_output_dir / input_pdf.name
 
     data_payload = {
         "metadata": metadata,
@@ -530,6 +574,14 @@ def generate(
     data_path.write_text(json.dumps(data_payload, ensure_ascii=False, indent=2), encoding="utf-8")
     html_path.write_text(render_html(indexes, metadata), encoding="utf-8")
     shutil.copy2(input_pdf, pdf_copy_path)
+
+    root_data_path.write_text(json.dumps(data_payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    root_html_path.write_text(render_html(indexes, metadata), encoding="utf-8")
+    shutil.copy2(input_pdf, root_pdf_copy_path)
+
+    versioned_data_path.write_text(json.dumps(data_payload, ensure_ascii=False, indent=2), encoding="utf-8")
+    versioned_html_path.write_text(render_html(indexes, metadata), encoding="utf-8")
+    shutil.copy2(input_pdf, versioned_pdf_copy_path)
 
     return html_path, data_path, metadata
 
